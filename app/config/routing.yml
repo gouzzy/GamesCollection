@@ -1,0 +1,4 @@
+gouzzy_games_collection:
+    resource: "@GouzzyGamesCollectionBundle/Resources/config/routing.yml"
+    prefix:   /
+

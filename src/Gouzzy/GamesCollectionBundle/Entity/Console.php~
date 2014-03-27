@@ -1,0 +1,152 @@
+<?php
+
+namespace Gouzzy\GamesCollectionBundle\Entity;
+
+use Doctrine\ORM\Mapping as ORM;
+
+/**
+ * Console
+ *
+ * @ORM\Table()
+ * @ORM\Entity(repositoryClass="Gouzzy\GamesCollectionBundle\Entity\ConsoleRepository")
+ */
+class Console
+{
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="id", type="integer")
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="AUTO")
+     */
+    private $id;
+    
+    /**
+    * @ORM\ManyToOne(targetEntity="Gouzzy\GamesCollectionBundle\Entity\Brand")
+    * @ORM\JoinColumn(nullable=false)
+    */
+    private $brand;
+    
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="name", type="string", length=200)
+     */
+    private $name;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="version", type="string", length=100)
+     */
+    private $version;
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="generation", type="integer")
+     */
+    private $generation;
+
+    /**
+    * @ORM\ManyToOne(targetEntity="Gouzzy\GamesCollectionBundle\Entity\Localisation")
+    * @ORM\JoinColumn(nullable=false)
+    */
+    private $localisation;
+    
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="additionalLocalisation", type="string", length=100)
+     */
+    private $additionalLocalisation;
+
+    /**
+     * @var boolean
+     *
+     * @ORM\Column(name="work", type="boolean")
+     */
+    private $work;
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="generalCondition", type="integer")
+     */
+    private $generalCondition;
+
+    /**
+     * @var boolean
+     *
+     * @ORM\Column(name="box", type="boolean")
+     */
+    private $box;
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="boxCondition", type="integer")
+     */
+    private $boxCondition;
+
+    /**
+     * @var boolean
+     *
+     * @ORM\Column(name="notice", type="boolean")
+     */
+    private $notice;
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="noticeCondtion", type="integer")
+     */
+    private $noticeCondtion;
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="controllersNumber", type="integer")
+     */
+    private $controllersNumber;
+
+    /**
+     * @var boolean
+     *
+     * @ORM\Column(name="complete", type="boolean")
+     */
+    private $complete;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="additionalInformations", type="text")
+     */
+    private $additionalInformations;
+
+    /**
+     * @var float
+     *
+     * @ORM\Column(name="cotation", type="float")
+     */
+    private $cotation;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="wikiLink", type="string", length=255)
+     */
+    private $wikiLink;
+    
+    /**
+     * @var boolean
+     *
+     * @ORM\Column(name="online", type="boolean")
+     */
+    private $online;
+
+    /**
+    * @ORM\OneToOne(targetEntity="Gouzzy\GamesCollectionBundle\Entity\Picture", cascade={"persist"})
+    */
+    private $masterPicture;
+}

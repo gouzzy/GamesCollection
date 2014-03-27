@@ -1,0 +1,7 @@
+parameters:
+#    gouzzy_games_collection.example.class: Gouzzy\GamesCollectionBundle\Example
+
+services:
+#    gouzzy_games_collection.example:
+#        class: %gouzzy_games_collection.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

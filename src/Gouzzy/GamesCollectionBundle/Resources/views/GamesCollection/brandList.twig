@@ -1,0 +1,15 @@
+{% for brand in brands %}
+    <p>
+        <a href="" ><img src="{{ asset('images/articles/vignettes/' ~ article.image1.getUrl()) }}" border="0" /></a>								
+        <a href="{{ path('oppbtp_intranet_article_voir', {'id': article.id}) }}"><h2>{{ article.titre }}</h2></a>
+        <span id="type_categorie">{{ article.type.getNom() }}</span>
+        <span id="date">{{ article.date|date('d/m/Y') }}</span><br/>
+        <p id="resum">
+        {{ article.accroche }}								
+        <a href="{{ path('oppbtp_intranet_article_voir', {'id': article.id}) }}" ><span id="lire">Lire la suite</span></a>
+        </p>	
+    </p>
+{% else %}
+
+  <p>Pas d'articles</p>
+{% endfor %}
