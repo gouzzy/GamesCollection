@@ -1,0 +1,11 @@
+{% extends "GouzzyGamesCollectionBundle::layout.html.twig" %}
+{% block title %}{{ parent() }} - Index{% endblock %}
+{% block body %}
+    <ul>
+    {% for editor in editors %}
+        <li><img src="{{ asset('img/editors/' ~ editor.getMasterPicture()) }}" width="100" height="100" /> <a href="{{ path('gouzzy_games_collection_game_list_with_editorId', {'editorId': editor.id}) }}" >{{ editor.getName() }}</a></span> (<span><a href="{{ editor.getWikiLink() }}" target="_blank">{{ editor.getWikiLink() }}</a>)</li>
+    {% else %}
+        <p>Pas de marques</p>
+    {% endfor %}
+    </ul>
+{% endblock %}

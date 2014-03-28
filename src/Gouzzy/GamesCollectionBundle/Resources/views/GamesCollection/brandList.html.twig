@@ -1,0 +1,11 @@
+{% extends "GouzzyGamesCollectionBundle::layout.html.twig" %}
+{% block title %}{{ parent() }} - Index{% endblock %}
+{% block body %}
+    <ul>
+    {% for brand in brands %}
+        <li><img src="{{ asset('img/brands/' ~ brand.getMasterPicture()) }}" width="100" height="100" /> <a href="{{ path('gouzzy_games_collection_console_list_with_brandId', {'brandId': brand.id}) }}" >{{ brand.getName() }}</a></span> (<span><a href="{{ brand.getWikiLink() }}" target="_blank">{{ brand.getWikiLink() }}</a>)</li>
+    {% else %}
+        <p>Pas de marques</p>
+    {% endfor %}
+    </ul>
+{% endblock %}

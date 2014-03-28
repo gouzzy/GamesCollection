@@ -1,3 +1,63 @@
 gouzzy_games_collection_homepage:
     pattern:  /hello/{name}
     defaults: { _controller: GouzzyGamesCollectionBundle:Default:index }
+    
+gouzzy_games_collection_mastergenre_list:
+    pattern:  /mastergenres/
+    defaults: { _controller: GouzzyGamesCollectionBundle:MasterGenre:index }
+    
+gouzzy_games_collection_genre_list:
+    pattern:  /genres/
+    defaults: { _controller: GouzzyGamesCollectionBundle:Genre:index }
+
+gouzzy_games_collection_genre_list_with_masterGenreId:
+    pattern:  /genres/{masterGenreId}
+    defaults: { _controller: GouzzyGamesCollectionBundle:Genre:genreList }
+
+gouzzy_games_collection_brand_list:
+    pattern:  /brands/
+    defaults: { _controller: GouzzyGamesCollectionBundle:Brand:index }
+
+gouzzy_games_collection_brand_add:
+    pattern:  /brand/add/
+    defaults: { _controller: GouzzyGamesCollectionBundle:Brand:addBrand }
+
+gouzzy_games_collection_editor_list:
+    pattern:  /editors/
+    defaults: { _controller: GouzzyGamesCollectionBundle:Editor:index }
+
+gouzzy_games_collection_editor_add:
+    pattern:  /editor/add/
+    defaults: { _controller: GouzzyGamesCollectionBundle:Editor:addEditor }
+    
+gouzzy_games_collection_console_list:
+    pattern:  /consoles/
+    defaults: { _controller: GouzzyGamesCollectionBundle:Console:index }
+
+gouzzy_games_collection_console_list_with_brandId:
+    pattern:  /consoles/{brandId}
+    defaults: { _controller: GouzzyGamesCollectionBundle:Console:consoleListByBrand }
+    
+gouzzy_games_collection_console_add:
+    pattern:  /console/add/
+    defaults: { _controller: GouzzyGamesCollectionBundle:Console:addBrand }
+    
+gouzzy_games_collection_game_list:
+    pattern:  /games/
+    defaults: { _controller: GouzzyGamesCollectionBundle:Game:index }
+
+gouzzy_games_collection_game_list_with_consoleId:
+    pattern:  /games/{brandId}
+    defaults: { _controller: GouzzyGamesCollectionBundle:Game:gameListByBrand }
+
+gouzzy_games_collection_game_list_with_genreId:
+    pattern:  /games/{genreId}
+    defaults: { _controller: GouzzyGamesCollectionBundle:Game:gameListByGenre }
+
+gouzzy_games_collection_game_list_with_editorId:
+    pattern:  /games/{editorId}
+    defaults: { _controller: GouzzyGamesCollectionBundle:Game:gameListByEditor }
+
+gouzzy_games_collection_game_list_with_developperId:
+    pattern:  /games/{developperId}
+    defaults: { _controller: GouzzyGamesCollectionBundle:Game:gameListByDevelopper }

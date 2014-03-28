@@ -1,0 +1,11 @@
+{% extends "GouzzyGamesCollectionBundle::layout.html.twig" %}
+{% block title %}{{ parent() }} - Index{% endblock %}
+{% block body %}
+    <ul> 
+    {% for masterGenre in masterGenres %}
+        <li><a href="{{ path('gouzzy_games_collection_genre_list_with_masterGenreId', {'masterGenreId': masterGenre.id}) }}" >{{ masterGenre.getName() }}</a></li>
+    {% else %}
+        <p>Pas de master genres</p>
+    {% endfor %}
+    </ul>
+{% endblock %}

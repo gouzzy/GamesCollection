@@ -143,7 +143,8 @@ class Game
     private $online;
 
     /**
-    * @ORM\OneToOne(targetEntity="Gouzzy\GamesCollectionBundle\Entity\Picture", cascade={"persist"})
+    * @ORM\ManyToOne(targetEntity="Gouzzy\GamesCollectionBundle\Entity\Picture")
+    * @ORM\JoinColumn(nullable=false)
     */
     private $masterPicture;
 

@@ -47,4 +47,106 @@ class GamePicture
      * @ORM\Column(name="online", type="boolean")
      */
     private $online;
+
+    /**
+     * Get id
+     *
+     * @return integer 
+     */
+    public function getId()
+    {
+        return $this->id;
+    }
+
+    /**
+     * Set path
+     *
+     * @param string $path
+     * @return GamePicture
+     */
+    public function setPath($path)
+    {
+        $this->path = $path;
+
+        return $this;
+    }
+
+    /**
+     * Get path
+     *
+     * @return string 
+     */
+    public function getPath()
+    {
+        return $this->path;
+    }
+
+    /**
+     * Set name
+     *
+     * @param string $name
+     * @return GamePicture
+     */
+    public function setName($name)
+    {
+        $this->name = $name;
+
+        return $this;
+    }
+
+    /**
+     * Get name
+     *
+     * @return string 
+     */
+    public function getName()
+    {
+        return $this->name;
+    }
+
+    /**
+     * Set online
+     *
+     * @param boolean $online
+     * @return GamePicture
+     */
+    public function setOnline($online)
+    {
+        $this->online = $online;
+
+        return $this;
+    }
+
+    /**
+     * Get online
+     *
+     * @return boolean 
+     */
+    public function getOnline()
+    {
+        return $this->online;
+    }
+
+    /**
+     * Set game
+     *
+     * @param \Gouzzy\GamesCollectionBundle\Entity\Game $game
+     * @return GamePicture
+     */
+    public function setGame(\Gouzzy\GamesCollectionBundle\Entity\Game $game)
+    {
+        $this->game = $game;
+
+        return $this;
+    }
+
+    /**
+     * Get game
+     *
+     * @return \Gouzzy\GamesCollectionBundle\Entity\Game 
+     */
+    public function getGame()
+    {
+        return $this->game;
+    }
 }

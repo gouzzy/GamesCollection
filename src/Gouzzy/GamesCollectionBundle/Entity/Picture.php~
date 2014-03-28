@@ -24,9 +24,9 @@ class Picture
     /**
      * @var string
      *
-     * @ORM\Column(name="path", type="string", length=255)
+     * @ORM\Column(name="url", type="string", length=255)
      */
-    private $path;
+    private $url;
 
     /**
      * @var boolean
@@ -52,9 +52,9 @@ class Picture
      * @param string $path
      * @return Picture
      */
-    public function setPath($path)
+    public function setUrl($url)
     {
-        $this->path = $path;
+        $this->url = $url;
 
         return $this;
     }
@@ -64,9 +64,9 @@ class Picture
      *
      * @return string 
      */
-    public function getPath()
+    public function getUrl()
     {
-        return $this->path;
+        return $this->url;
     }
 
     /**

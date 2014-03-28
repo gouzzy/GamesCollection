@@ -47,4 +47,106 @@ class ConsolePicture
      * @ORM\Column(name="online", type="boolean")
      */
     private $online;
+
+    /**
+     * Get id
+     *
+     * @return integer 
+     */
+    public function getId()
+    {
+        return $this->id;
+    }
+
+    /**
+     * Set path
+     *
+     * @param string $path
+     * @return ConsolePicture
+     */
+    public function setPath($path)
+    {
+        $this->path = $path;
+
+        return $this;
+    }
+
+    /**
+     * Get path
+     *
+     * @return string 
+     */
+    public function getPath()
+    {
+        return $this->path;
+    }
+
+    /**
+     * Set name
+     *
+     * @param string $name
+     * @return ConsolePicture
+     */
+    public function setName($name)
+    {
+        $this->name = $name;
+
+        return $this;
+    }
+
+    /**
+     * Get name
+     *
+     * @return string 
+     */
+    public function getName()
+    {
+        return $this->name;
+    }
+
+    /**
+     * Set online
+     *
+     * @param boolean $online
+     * @return ConsolePicture
+     */
+    public function setOnline($online)
+    {
+        $this->online = $online;
+
+        return $this;
+    }
+
+    /**
+     * Get online
+     *
+     * @return boolean 
+     */
+    public function getOnline()
+    {
+        return $this->online;
+    }
+
+    /**
+     * Set console
+     *
+     * @param \Gouzzy\GamesCollectionBundle\Entity\Console $console
+     * @return ConsolePicture
+     */
+    public function setConsole(\Gouzzy\GamesCollectionBundle\Entity\Console $console)
+    {
+        $this->console = $console;
+
+        return $this;
+    }
+
+    /**
+     * Get console
+     *
+     * @return \Gouzzy\GamesCollectionBundle\Entity\Console 
+     */
+    public function getConsole()
+    {
+        return $this->console;
+    }
 }

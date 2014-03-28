@@ -42,7 +42,12 @@ class Brand
      */
     private $masterPicture;
     
-
+    public function __construct()
+    {
+        $this->wikiLink      = '';
+        $this->masterPicture = 'noImage.png';
+    }
+    
     /**
      * Get id
      *
