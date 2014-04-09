@@ -1,0 +1,507 @@
+;Genre;Console;Editeur;Developpeur;Version;Titre;Complement version;Etat;Boite;Etat boite;Notice;Etat notice;Informations;Cotation;Lien
+;;;;;;Gx4000 (Amastrad);;;;;;;;;
+;Combat 2D;25;Palace Software;1;EU;Barbarian 2 ;;;;;;;;;http://fr.wikipedia.org/wiki/Barbarian_II:_The_Dungeon_of_Drax
+;Action-plateforme;25;Ocean Software;1;EU;Batman : The Movie ;;;;;;;;;http://fr.wikipedia.org/wiki/Batman:_The_Movie
+;Arcade voiture ;25;Ocean Software;1;EU;Burning rubber ;;;;;;;;;http://fr.wikipedia.org/wiki/Burnin%27_Rubber_%28GX-4000%29
+;combat motorisé;25;Titus Interactive;1;EU;Fire & Forget II ;;;;;;;;;http://fr.wikipedia.org/wiki/Fire_and_Forget_II
+;;;;1;;;;;;;;;;;
+;;;;1;;2600 (Atari);;;;;;;;;
+;Beat them all;26;;1;;Action force ;;;;;;;;;
+;Shoot them up ;26;Atari;1;;Air-Sea Battle ;;;;;;;;;http://fr.wikipedia.org/wiki/Air-Sea_Battle
+;Arcade char d'assaut;26;Atari;1;;Battlezone;;;;;;;;;http://fr.wikipedia.org/wiki/Battlezone
+;Puzzle game ;26;;1;;Big Bird's Egg Catch ;;;;;;;;;
+;Shoot them up ;26;Sega;1;;Carnival ;;;;;;;;;http://fr.wikipedia.org/wiki/Carnival_%28jeu_vid%C3%A9o%29
+;Shoot them up ;26;Atari;1;;Centipede ;;;;;;;;;http://fr.wikipedia.org/wiki/Centipede
+;Tir/action ;26;;1;;Combat ;;;;;;;;;
+;Action;26;;1;;Desert Falcon ;;;;;;;;;
+;Labyrinthe;26;Namco;1;;Dig Dug ;;;;;;;;;http://fr.wikipedia.org/wiki/Dig_Dug
+;Plate-forme 2D;26;Nintendo;1;;Donkey Kong ;;;;;;;;;http://fr.wikipedia.org/wiki/Donkey_Kong_%28jeu_vid%C3%A9o%29
+;Action;26;;1;;Fire Fighter ;;;;;;;;;
+;Plate-forme 2D;26;Atari;1;;Haunted House ;;;;;;;;;http://fr.wikipedia.org/wiki/Haunted_House_%28Atari_2600%29
+;Simulation voiture;26;;1;;Indy 500 ;;;;;;;;;
+;Plate-forme 2D;26;Williams Electronics;1;;Joust ;;;;;;;;;http://fr.wikipedia.org/wiki/Joust
+;Action-aventure ;26;;1;;Jungle Hunt ;;;;;;;;;
+;Plate-forme 2D;26;;1;;Kangaroo ;;;;;;;;;
+;Plate-forme 2D;26;;1;;Les Schtroumpfs ;;;;;;;;;
+;Shoot them up ;26;;1;;Meteor defense ;;;;;;;;;
+;Shoot them up ;26;Atari;1;;Missile Command ;;;;;;;;;http://fr.wikipedia.org/wiki/Missile_Command
+;Tir/action ;26;;1;;Outlaw ;;;;;;;;;
+;Labyrinthe;26;Namco;1;;Pac man ;;;;;;;;;http://fr.wikipedia.org/wiki/Pac-Man
+;Shoot them up ;26;;1;;Phoenix ;;;;;;;;;
+;Simulation foot;26;;1;;Realsports Soccer ;;;;;;;;;
+;Tir/action ;26;;1;;Robin Hood ;;;;;;;;;
+;Shoot them up ;26;;1;;Sir Lancelot ;;;;;;;;;
+;Action;26;;1;;Skate Boardin': A Radical Adventure ;;;;;;;;;
+;Action;26;;1;;Sky alien ;;;;;;;;;
+;Simulation ski;26;;1;;Sky Diver ;;;;;;;;;
+;Shoot them up ;26;Taito/Midway;1;;Space Invaders ;;;;;;;;;http://fr.wikipedia.org/wiki/Space_Invaders
+;Space battle;26;;1;;Space Shuttle: A Journey Into Space ;;;;;;;;;
+;Shoot them up ;26;;1;;Star strike ;;;;;;;;;
+;Shoot them up ;26;;1;;Stargate ;;;;;;;;;
+;Arcade voiture ;26;;1;;Street Racer ;;;;;;;;;
+;Simulation sportive ;26;;1;;Video Olympics ;;;;;;;;;
+;Flipper;26;;1;;Video Pinball ;;;;;;;;;
+;Space battle;26;Sega;1;;Zaxxon ;;;;;;;;;http://fr.wikipedia.org/wiki/Zaxxon
+;;;;1;;;;;;;;;;;
+;;;;1;;7800 (Atari);;;;;;;;;
+;Shoot them up;27;SNK;1;;Ikari Warriors ;;;;;;;;;http://fr.wikipedia.org/wiki/Ikari_Warriors_%28jeu_vid%C3%A9o%29
+;Action;27;;1;;Jinks ;;;;;;;;;
+;Simulation golf ;27;;1;;Mean 18 Ultimate Golf ;;;;;;;;;
+;Simulation catch ;27;;1;;Title Match Pro Wrestling ;;;;;;;;;
+;;;;1;;;;;;;;;;;
+;;;;1;;Jaguar (Atari);;;;;;;;;
+;Combat 2D;Jaguar;virgin interactive;1;EU;dragon the bruce lee story;;10;1;10;1;10;neuf emballé;15 €;http://fr.wikipedia.org/wiki/Dragon:_The_Bruce_Lee_Story_%28jeu_vid%C3%A9o%29
+;Plate-forme 2D ;Jaguar;Atari;1;EU;bubsy: Fractured Furry Tails;;10;1;10;1;10;neuf emballé;15 €;http://fr.wikipedia.org/wiki/Bubsy_in:_Fractured_Furry_Tales
+;Mecha;Jaguar;Atari;1;EU;iron soldier;;9;1;9;1;9;;14 €;http://fr.wikipedia.org/wiki/Iron_Soldier
+;Arcade basket;Jaguar;Atari;1;EU;white men can't jump;;5;0;;0;;;5 €;http://fr.wikipedia.org/wiki/Les_blancs_ne_savent_pas_sauter_%28jeu_vid%C3%A9o%29
+;Shoot them up ;Jaguar;virgin interactive;1;EU;cannon fodder;;7;0;;0;;;8 €;http://fr.wikipedia.org/wiki/Cannon_Fodder
+;Space battle;Jaguar;Atari;1;EU;cybermorph;;8;0;;0;;;7 €;http://fr.wikipedia.org/wiki/Cybermorph
+;Space battle;Jaguar;Atari;1;;cybermorph;;8;0;;0;;;7 €;http://fr.wikipedia.org/wiki/Cybermorph
+;Space battle;Jaguar;Atari;1;;cybermorph;;7;0;;0;;;7 €;http://fr.wikipedia.org/wiki/Cybermorph
+;Simulation économique ;Jaguar;Ocean;1;;Theme park;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Theme_Park
+;Simulation économique ;Jaguar;Ocean;1;;Theme park;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Theme_Park
+;Simulation économique ;Jaguar;Ocean;1;;Theme park;;10;1;10;1;10;;;http://fr.wikipedia.org/wiki/Theme_Park
+;FPS;Jaguar;Atari;1;;Doom;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Doom_%28jeu_vid%C3%A9o%29
+;FPS;Jaguar;Atari;1;;Doom;;9;1;9;1;9;manque l'insert manette;;http://fr.wikipedia.org/wiki/Doom_%28jeu_vid%C3%A9o%29
+;Stratégie ;Jaguar;Ocean;1;;Syndicate;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Syndicate_%28jeu_vid%C3%A9o%29
+;FPS;Jaguar;Atari;1;;Alien versus Predator;;7;1;7;1;7;;;http://fr.wikipedia.org/wiki/Alien_vs._Predator_%28Jaguar%29
+;FPS;Jaguar;Atari;1;;Wolfenstein 3D;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Wolfenstein_3D
+;Arcade karting ;Jaguar;Atari;1;;Atari Karts;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Atari_Karts
+;Plate-forme 2D ;Jaguar;Ubisoft;1;;Rayman;;8;1;10;0;;;;http://fr.wikipedia.org/wiki/Rayman_%28jeu_vid%C3%A9o%29
+;Shoot them up ;Jaguar;Atari;1;;Tempest 2000;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Tempest_2000
+;Plate-forme 2D ;Jaguar;Atari;1;;Pitfall: The Mayan Adventure;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Pitfall:_The_Mayan_Adventure
+;Simulation ski;Jaguar;Atari;1;;Val D'Isere Skiing and Snowboarding;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Val_d%27Is%C3%A8re_Skiing_and_Snowboarding
+;Shoot them up;Jaguar;Atari;1;;Trevor McFur in the Crescent Galaxy;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Trevor_McFur_in_the_Crescent_Galaxy
+;Puzzle game;Jaguar;Atari;1;;FlipOut;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Flip_Out!
+;Flipper;Jaguar;Atari;1;;Ruiner Pinball;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Ruiner_Pinball
+;;Jaguar;Atari;1;;Flashback;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Flashback:_The_Quest_for_Identity
+;Plate-forme 2D;Jaguar;Atari;1;;Zool2;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Zool_2
+;Combat 2D;Jaguar;Atari;2;;Kasumi Ninja;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Kasumi_Ninja
+;Shoot them up;Jaguar;Fabtek;3;;Raiden;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Raiden_%28jeu_vid%C3%A9o%29
+;Simulation foot;Jaguar;U.S. Gold;1;;Fever Pitch Soccer;;10;1;10;1;10;neuf emballé;;
+;Arcade football américain;Jaguar;Millennium Interactive;4;;Brutal Sports Football;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Brutal_Football:_Brutal_Sports_Series
+;Flipper;Jaguar;21st Century;5;;Pinball Fantasies;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Pinball_Fantasies
+;Simulation football américain;Jaguar;Williams;1;;Troy Aikman NFL Football;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Troy_Aikman_NFL_Football
+;;Jaguar;;1;;Hover Strike;;10;1;10;1;10;neuf emballé;;
+;Arcade basket;Jaguar;Atari;6;;White Men Can't Jump;;10;1;10;1;10;neuf emballé + multitap;;
+;;Jaguar;;1;;Club Drive;;10;1;10;1;10;neuf emballé;;
+;;Jaguar;;1;;SuperCross 3D;;10;1;10;1;10;neuf emballé;;
+;;;;1;;;;;;;;;;;
+;;;;1;;Jaguar cd (Atari);;;;;;;;;
+;Space battle;Jaguar cd;Atari;1;;Hover Strike : Unconquered Lands;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Hover_Strike:_Unconquered_Lands
+;Aventure ;Jaguar cd;Atari;1;;Myst Demo;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Myst
+;Aventure ;Jaguar cd;Atari;1;;Myst;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Myst
+;Aventure ;Jaguar cd;Atari;1;;Highlander : The Last of the MacLeods;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Highlander:_The_Last_of_the_MacLeods
+;Arcade aérienne;Jaguar cd;Atari;1;;Blue Lightning;;5;1;5;1;5;;;http://fr.wikipedia.org/wiki/Blue_Lightning_%28Jaguar%29
+;Aventure ;Jaguar cd;Readysoft;1;;Dragon's Lair ;;7;1;7;1;7;;;http://fr.wikipedia.org/wiki/Dragon%27s_Lair
+;Aventure ;Jaguar cd;Readysoft;1;;Space Ace ;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Space_Ace
+;Puzzle game;jaguar cd;Atari;1;;Vid Grid ;;5;1;5;1;5;;;http://fr.wikipedia.org/wiki/Vid_Grid
+;Space battle;jaguar cd;Atari;1;;Battlemorph;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Battlemorph
+;Good Game;jaguar cd;Atari;1;;Baldies;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Baldies
+;;;;1;;;;;;;;;;;
+;;;;1;;Lynx (Atari);;;;;;;;;
+;Beat them all;Lynx (1&2);Atari;1;;Batman Returns;;;;;;;;;http://fr.wikipedia.org/wiki/Batman_Returns_%28jeu_vid%C3%A9o%29
+;;;;1;;;;;;;;;;;
+;;;;1;;Intelivision (Mattel);;;;;;;;;
+;Arcade char d'assaut;Intellivision;;1;;Armor Battle ;;;;;;;;;
+;Arcade voiture ;Intellivision;;1;;Auto Racing ;;;;;;;;;
+;Simulation Baseball;Intellivision;;1;;Baseball ;;;;;;;;;
+;Simulation boxe;Intellivision;;1;;Boxing ;;;;;;;;;
+;Réflexion;Intellivision;;1;;Checkers ;;;;;;;;;
+;Simulation foot;Intellivision;;1;;Football ;;;;;;;;;
+;Plate-forme 2D;Intellivision;;1;;Frog Bog ;;;;;;;;;
+;Labyrinthe ;Intellivision;;1;;Lock 'N Chase ;;;;;;;;;
+;Labyrinthe ;Intellivision;;1;;Snafu ;;;;;;;;;
+;Simulation foot;Intellivision;;1;;Soccer ;;;;;;;;;
+;Space battle;Intellivision;;1;;Space Battle ;;;;;;;;;
+;Space battle;Intellivision;;1;;Star Strike ;;;;;;;;;
+;Shoot ;Intellivision;;1;;Sub Hunt ;;;;;;;;;
+;Simulation tennis ;Intellivision;;1;;Tennis ;;;;;;;;;
+;Arcade voiture ;Intellivision;;1;;Triple Action ;;;;;;;;;
+;Space battle;Intellivision;Sega;1;;Zaxxon ;;;;;;;;;http://fr.wikipedia.org/wiki/Zaxxon
+;;;;1;;;;;;;;;;;
+;;;;1;;Xbox (Microsoft);;;;;;;;;
+;Arcade voiture ;Xbox;EA;1;;Burnout 3 takedown ;;;;;;;;;http://fr.wikipedia.org/wiki/Burnout_3:_Takedown
+;Simulation foot;Xbox;EA;1;;Fifa 2004 ;;;;;;;;;http://fr.wikipedia.org/wiki/FIFA_Football_2004
+;FPS;Xbox;Microsoft Games Studios;1;;Halo : Combat Evolved;;;;;;;;;http://fr.wikipedia.org/wiki/Halo:_Combat_Evolved
+;Arcade voiture ;Xbox;Microsoft Games Studios;1;;Midtown madness 3 ;;;;;;;;;http://fr.wikipedia.org/wiki/Midtown_Madness_3
+;Arcade voiture ;Xbox;EA;1;;Need for speed underground ;;;;;;;;;http://fr.wikipedia.org/wiki/Need_for_Speed_Underground
+;Arcade voiture ;Xbox;EA;1;;Need for speed underground 2;;;;;;;;;http://fr.wikipedia.org/wiki/Need_for_Speed:_Underground_2
+;Action;Xbox;Activision;1;;True Crime: Streets of LA ;;;;;;;;;http://fr.wikipedia.org/wiki/True_Crime:_Streets_of_LA
+;;;;1;;;;;;;;;;;
+;;;;1;;Xbox 360 (Microsoft);;;;;;;;;
+;RPG;Xbox 360;Microsoft Games Studios;1;EU;Lost Odyssey ;;8;1;8;1;8;;;http://fr.wikipedia.org/wiki/Lost_Odyssey
+;RPG;Xbox 361;SquareEnix;1;EU;The Last Remnant ;;8;1;8;1;8;;;http://fr.wikipedia.org/wiki/The_Last_Remnant
+;;;;1;;;;;;;;;;;
+;;;;1;;Turbografx 16 (NEC);;;;;;;;;
+;Shoot them up ;Turbografx 16;Hudson Soft;1;;Blazing Lazers;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Blazing_Lazers
+;;;;1;;;;;;;;;;;
+;;;;1;;DS (Nintendo);;;;;;;;;
+;Stratégie ;DS & DS light & DS XL;Nintendo;1;;Advance wars dark conflict ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Advance_Wars:_Dark_Conflict
+;Stratégie ;DS & DS light & DS XL;Nintendo;1;;Advance wars dual strike;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Advance_Wars_:_Double_offensive
+;Stratégie ;DS & DS light & DS XL;Enlight Software;1;;Age of empire II :  the age of king ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Age_of_Empires_II:_The_Age_of_Kings
+;Simulation économique ;DS & DS light & DS XL;Sunflower Interactives;1;;Anno  1701;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Anno_1701
+;Action-RPG ;DS & DS light & DS XL;SquareEnix;1;;Children of mana ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Children_of_Mana
+;RPG;DS & DS light & DS XL;SquareEnix;1;;Final Fantasy III ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Final_Fantasy_III_%28Nintendo_DS%29
+;RPG;DS & DS light & DS XL;SquareEnix;1;;Final Fantasy IV ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Final_Fantasy_IV_%28Nintendo_DS%29#Nintendo_DS
+;RPG;DS & DS light & DS XL;SquareEnix;1;;Final Fantasy XII revenant wings ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Final_Fantasy_XII:_Revenant_Wings
+;Tactic-RPG;DS & DS light & DS XL;SquareEnix;1;;Final Fantasy Crystal Chronicles Ring of Fates;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_Ring_of_Fates
+;Point and click ;DS & DS light & DS XL;369 Interactive;1;;Les experts meurtres a las vegas ;;9;1;9;1;9;;;
+;Point and click ;DS & DS light & DS XL;Capcom;1;;Phoenix wright ace attorney ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Phoenix_Wright:_Ace_Attorney
+;Puzzle game;DS & DS light & DS XL;Mitchell;1;;Polarium ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Polarium
+;Réflexion ;DS & DS light & DS XL;Nintendo;1;;Programme d'entrainement cerebral du dr Kawashima quel âge a votre cerveau? ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Programme_d%27entra%C3%AEnement_c%C3%A9r%C3%A9bral_du_Dr_Kawashima_:_Quel_%C3%A2ge_a_votre_cerveau_%3F
+;Simulation économique ;DS & DS light & DS XL;EA;1;;Theme park ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Theme_Park_DS
+;Point and click ;DS & DS light & DS XL;Atlus;1;;Trauma center under the knife ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Trauma_Center:_Under_the_Knife
+;?;DS & DS light & DS XL;THQ;1;;Worms open warfare ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Worms:_Open_Warfare
+;;;;1;;;;;;;;;;;
+;;;;1;;Game Boy (Nintendo);;;;;;;;;
+;Action-aventure ;Game Boy & Game Boy Color;;1;;Ghostbusters II ;;;;;;;;;
+;Action-aventure ;Game Boy & Game Boy Color;;1;;Star wars ;;;;;;;;;
+;Plate-forme 2D;Game Boy & Game Boy Color;Nintendo;1;;Super mario land 2 ;;;;;;;;;http://fr.wikipedia.org/wiki/Super_Mario_Land_2:_6_Golden_Coins
+;RPG;Game Boy & Game Boy Color;Square;1;;Mystic Quest;;9;1;9;1;9;Nom US de final fantasy;;http://fr.wikipedia.org/wiki/Mystic_Quest
+;;;;1;;;;;;;;;;;
+;;;;1;;Game Boy Advance (Nintendo);;;;;;;;;
+;RPG;Game Boy Advance & DS & DS light;SquareEnix/Nintendo;1;;Final Fantasy VI ;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Final_Fantasy_VI_Advance#Game_Boy_Advance
+;Arcade voiture;Game Boy Advance & DS & DS light;;1;;Need for speed;;;;;;;;;
+;;;;1;;;;;;;;;;;
+;;;;1;;Game Boy Color (Nintendo);;;;;;;;;
+;puzzle game;Game Boy & Game Boy Color;Nintendo;1;;Tetris DX ;;;;;;;;;http://fr.wikipedia.org/wiki/Tetris_DX
+;Plate-forme 2D;Game Boy Color;;1;;Rayman;;9;1;10;1;10;neuf emballé;;
+;;;;1;;;;;;;;;;;
+;;;;1;;GameCube (Nintendo);;;;;;;;;
+;RPG;GameCube & Wii;;1;;Beyblade: Super Tournament Battle;;;;;;;;;
+;Action;GameCube & Wii;Atari;1;;Enter the matrix ;;;;;;;;;http://fr.wikipedia.org/wiki/Enter_the_Matrix
+;Simulation voiture;GameCube & Wii;;1;;F1 2002 ;;;;;;;;;
+;Tactic-RPG;GameCube & Wii;SquareEnix;1;;Final Fantasy Crystal Chronicles;;;;;;;;;http://fr.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles
+;Arcade karting ;GameCube & Wii;Nintendo;1;;Mario kart double dash + Mario sunshine;;;;;;;;;http://fr.wikipedia.org/wiki/Mario_Kart:_Double_Dash!!
+;Arcade karting ;GameCube & Wii;Nintendo;1;;Mario kart double dash ;;;;;;;;;http://fr.wikipedia.org/wiki/Mario_Kart:_Double_Dash!!
+;Arcade tennis;GameCube & Wii;Nintendo;1;;Mario power tennis ;;;;;;;;;http://fr.wikipedia.org/wiki/Mario_Power_Tennis
+;RPG;GameCube & Wii;Namco;1;;Tales of symphonia ;;;;;;;;;http://fr.wikipedia.org/wiki/Tales_of_Symphonia
+;;;;1;;;;;;;;;;;
+;;;;1;;NES (Nintendo);;;;;;;;;
+;Plate-forme 2D;NES;Infogrames;1;EU;Astérix ;;;;;;;;;http://fr.wikipedia.org/wiki/Ast%C3%A9rix_%28NES%29
+;Plate-forme 2D;NES;Konami;1;EU;Castlevania ;;;;;;;;;http://fr.wikipedia.org/wiki/Castlevania
+;Plate-forme 2D;NES;;1;EU;Chip 'n Dale: Rescue Rangers ;;;;;;;;;
+;Plate-forme 2D;NES;Capcom;1;EU;Darkwing Duck ;;;;;;;;;http://fr.wikipedia.org/wiki/Darkwing_Duck_%28jeu_vid%C3%A9o%29
+;beat them all;NES;Taito;1;EU;Double Dragon ;;;;;;;;;http://fr.wikipedia.org/wiki/Double_Dragon_%28jeu_vid%C3%A9o%29
+;beat them all;NES;Technos;1;EU;Double Dragon 2;;7;0;;0;;;5 €;http://fr.wikipedia.org/wiki/Double_Dragon_2:_The_Revenge
+;beat them all;NES;Technos;1;EU;Double Dragon 3;;7;0;;0;;;15 €;http://fr.wikipedia.org/wiki/Double_Dragon_3:_The_Rosetta_Stone
+;puzzle game;NES;Nintendo;1;EU;Dr. Mario ;;;;;;;;;http://fr.wikipedia.org/wiki/Dr._Mario
+;Action-RPG ;NES;Bandai;1;EU;Dragn Ball : Le Secret du Dragon;;7;0;;0;;;15 €;http://fr.wikipedia.org/wiki/Dragon_Ball_:_le_Secret_du_dragon
+;Shoot ;NES;Nintendo;1;EU;Duck Hunt ;;;;;;;;;http://fr.wikipedia.org/wiki/Duck_Hunt
+;Arcade moto ;NES;Nintendo;1;EU;Excitebike ;;;;;;;;;http://fr.wikipedia.org/wiki/Excitebike
+;Action;NES;;1;EU;Ghostbusters II ;;;;;;;;;
+;Simulation golf ;NES;Nintendo;1;EU;Golf ;;;;;;;;;http://fr.wikipedia.org/wiki/Golf_%28jeu_vid%C3%A9o%29
+;Plate-forme 2D;NES;Sunsoft;1;EU;Gremlins 2: The New Batch ;;;;;;;;;http://fr.wikipedia.org/wiki/Gremlins_2:_The_New_Batch_%28jeu_vid%C3%A9o%29
+;Shoot ;NES;Nintendo;1;EU;Hogan's Alley ;;;;;;;;;http://fr.wikipedia.org/wiki/Hogan%27s_Alley_%28jeu_vid%C3%A9o%29
+;Action;NES;;1;EU;Isolated Warrior ;;;;;;;;;
+;Action-RPG ;NES;Bandai;1;EU;Les chevaliers du zodiaque;;7;0;;0;;;15 €;http://fr.wikipedia.org/wiki/Les_Chevaliers_du_Zodiaque_:_la_L%C3%A9gende_d%27or
+;Action;NES;Atari;1;EU;Paperboy;;9;1;9;1;9;;15 €;http://fr.wikipedia.org/wiki/Paperboy
+;shoot them up;NES;Konami;1;EU;Parodius ;;;;;;;;;http://fr.wikipedia.org/wiki/Parodius
+;Flipper;NES;;1;EU;PinBot ;;;;;;;;;
+;shoot them up;NES;Konami;1;EU;Probotector ;;;;;;;;;http://fr.wikipedia.org/wiki/Probotector
+;Action;NES;;1;EU;Retour vers le futur 2 ;;;;;;;;;
+;Action;NES;;1;EU;Retour vers le futur 3 ;;;;;;;;;
+;Action;NES;Ocean software;1;EU;RoboCop 2 ;;;;;;;;;http://fr.wikipedia.org/wiki/RoboCop_2_%28jeu_vid%C3%A9o%29
+;Plate-forme 2D;NES;Konami;1;EU;Rush'n attack ;;;;;;;;;http://fr.wikipedia.org/wiki/Green_Beret_%281985%29
+;Simulation foot;NES;Nintendo;1;EU;Soccer ;;;;;;;;;http://fr.wikipedia.org/wiki/Soccer_%28jeu_vid%C3%A9o%29
+;Plate-forme 2D;NES;Lucasfilm games/JVC;1;EU;Star Wars;;7;1;7;1;5;distribué par Bandai;30 €;
+;Combat aérien ;NES;Nintendo;1;EU;Stealth;;7;0;;0;;;5 €;
+;Plate-forme 2D;NES;Nintendo;1;EU;Super Mario Bros ;;;;;;;;;http://fr.wikipedia.org/wiki/Super_Mario_Bros.
+;Plate-forme 2D;NES;Nintendo;1;EU;Super mario bross 2 ;;;;;;;;;http://fr.wikipedia.org/wiki/Super_Mario_Bros._2
+;Plate-forme 2D;NES;Nintendo;1;EU;Super mario bross 3;;7;1;7;0;;;10 €;http://fr.wikipedia.org/wiki/Super_Mario_Bros._3
+;Action-aventure ;NES;Konami;1;EU;Teenage mutant hero turtles;;7;0;;1;5;;5 €;http://fr.wikipedia.org/wiki/Teenage_Mutant_Hero_Turtles_%28jeu_vid%C3%A9o%29
+;Action-aventure ;NES;Konami;1;EU;Teenage mutant hero turtles;;7;0;;1;5;;5 €;http://fr.wikipedia.org/wiki/Teenage_Mutant_Hero_Turtles_%28jeu_vid%C3%A9o%29
+;puzzle game;NES;;1;EU;Tetris ;;;;;;;;;
+;shoot them up;NES;;1;EU;Tiger Heli ;;;;;;;;;
+;shoot them up;NES;;1;EU;To The Earth ;;;;;;;;;
+;Simulation aérienne;NES;;1;EU;Top Gun ;;;;;;;;;
+;Arcade voiture;NES;;1;EU;Turbo Racing ;;;;;;;;;
+;;;;1;;;;;;;;;;;
+;;;;1;;Famicom (Nintendo);;;;;;;;;
+;Action-RPG ;Famicom;Bandai;1;JAP;Saint Seiya;;7;0;;0;;;15 €;http://fr.wikipedia.org/wiki/Les_Chevaliers_du_Zodiaque_:_la_L%C3%A9gende_d%27or
+;Action-RPG ;Famicom;Bandai;1;JAP;Dragonball3;;9;1;9;1;9;;40 €;
+;?;Famicom;Bothtec;1;JAP;Juliet je t'aime;;7;0;;0;;;;
+;RPG;Famicom;Enix;1;JAP;Dragonquest;;9;1;9;1;9;;45 €;http://fr.wikipedia.org/wiki/Dragon_Quest_%28jeu_vid%C3%A9o%29
+;RPG;Famicom;Enix;1;JAP;Dragonquest II;;9;1;9;1;9;;45 €;http://fr.wikipedia.org/wiki/Dragon_Quest_II
+;RPG;Famicom;Enix;1;JAP;Dragonquest III;;9;1;9;1;9;;15 €;http://fr.wikipedia.org/wiki/Dragon_Quest_III
+;RPG;Famicom;Enix;1;JAP;Dragonquest IV;;9;1;9;1;9;;45 €;http://fr.wikipedia.org/wiki/Dragon_Quest_IV
+;RPG;Famicom;Square;1;JAP;Final fantasy;;9;1;9;1;9;;45 €;http://fr.wikipedia.org/wiki/Final_Fantasy_%28jeu_vid%C3%A9o%29
+;RPG;Famicom;Square;1;JAP;Final fantasy II;;9;1;9;1;9;;45 €;http://fr.wikipedia.org/wiki/Final_Fantasy_II
+;RPG;Famicom;Square;1;JAP;Final fantasy III;;9;1;9;1;9;;45 €;http://fr.wikipedia.org/wiki/Final_Fantasy_III
+;RPG;Famicom;Square;1;JAP;Final fantasy I+II;;9;1;9;1;9;;45 €;
+;;;;1;;;;;;;;;;;
+;;;;1;;Super Famicom (Nintendo);;;;;;;;;
+;RPG;Super Famicom;Enix;1;JAP;Dragonquest V;;9;1;9;1;9;;45 €;http://fr.wikipedia.org/wiki/Dragon_Quest_V
+;RPG;Super Famicom;Enix;1;JAP;Dragonquest VI;;9;1;9;1;9;;45 €;http://fr.wikipedia.org/wiki/Dragon_Quest_VI
+;RPG;Super Famicom;Squaresoft;1;JAP;Final Fantasy IV ;;9;1;9;1;9;;45 €;http://fr.wikipedia.org/wiki/Final_Fantasy_IV
+;RPG;Super Famicom;Squaresoft;1;JAP;Final fantasy V;;9;1;9;1;9;;45 €;http://fr.wikipedia.org/wiki/Final_Fantasy_V
+;RPG;Super Famicom;Squaresoft;1;JAP;Final fantasy V;;9;1;9;1;9;;45 €;http://fr.wikipedia.org/wiki/Final_Fantasy_V
+;RPG;Super Famicom;Squaresoft;1;JAP;Final Fantasy VI ;;9;1;9;1;9;;45 €;http://fr.wikipedia.org/wiki/Final_Fantasy_VI
+;RPG;Super Famicom;Squaresoft;1;JAP;Final Fantasy VI ;;9;1;9;1;9;;45 €;http://fr.wikipedia.org/wiki/Final_Fantasy_VI
+;Combat 2D;Super Famicom;Bandai;1;JAP;DragonballZ 2;;7;0;;0;;;15 €;
+;Plate-forme 2D;Super Famicom;Nintendo;1;JAP;Super Metroid;;9;1;9;1;9;;45 €;http://fr.wikipedia.org/wiki/Super_Metroid
+;;;;1;;;;;;;;;;;
+;;;;1;;Super Nintendo (Nintendo);;;;;;;;;
+;Plate-forme 2D;Super Nintendo;Nintendo;1;EU;Donkey Kong Country ;;;;;;;;;http://fr.wikipedia.org/wiki/Donkey_Kong_Country
+;Action-aventure ;Super Nintendo;U.S. Gold;1;EU;Flashback : The Quest for Identity;;9;1;9;1;9;;15 €;http://fr.wikipedia.org/wiki/Flashback:_The_Quest_for_Identity
+;Plate-forme 2D;Super Nintendo;Infogrames;1;EU;Les Schtroumpfs ;;;;;;;;;http://fr.wikipedia.org/wiki/Les_Schtroumpfs_%28jeu_vid%C3%A9o,_1994%29
+;Combat 2D;Super Nintendo;Aklaim Entertainment;1;EU;Mortal Combat;;7;1;7;0;;;15 €;http://fr.wikipedia.org/wiki/Mortal_Kombat_%28jeu_vid%C3%A9o,_1992%29
+;Plate-forme 2D;Super Nintendo;Virgin Interactive;1;EU;Pinocchio ;;;;;;;;;http://fr.wikipedia.org/wiki/Pinocchio_%28jeu_vid%C3%A9o%29
+;Arcade aériene ;Super Nintendo;Nintendo;1;EU;Starwing/Star Fox;;7;1;5;0;;;10 €;http://fr.wikipedia.org/wiki/Starwing
+;Plate-forme 2D;Super Nintendo;Nintendo;1;EU;Super Mario All*Stars;;7;0;;0;;;15 €;http://fr.wikipedia.org/wiki/Super_Mario_All-Stars
+;Arcade karting ;Super Nintendo;Nintendo;1;EU;Super Mario Kart;;7;1;5;1;7;;30 €;http://fr.wikipedia.org/wiki/Super_Mario_Kart
+;Plate-forme 2D;Super Nintendo;Nintendo;1;EU;Super Mario World;;;;;;;;;http://fr.wikipedia.org/wiki/Super_Mario_World
+;shoot them up;Super Nintendo;Nintendo;1;EU;Super R-type;;9;1;9;1;9;;15 €;http://fr.wikipedia.org/wiki/Super_R-Type
+;Action-aventure ;Super Nintendo;Nintendo;1;EU;Super Star Wars;;9;1;9;1;9;;15 €;
+;Stratégie ;Super Nintendo;EA;1;EU;Syndicate;;7;0;;0;;;5 €;http://fr.wikipedia.org/wiki/Syndicate_%28jeu_vid%C3%A9o%29
+;Combat 2D;Super Nintendo;Midway;1;EU;Ultimate mortal kombat 3;;;;;;;;;http://fr.wikipedia.org/wiki/Liste_de_jeux_Super_Nintendo
+;;;;1;;;;;;;;;;;
+;;;;1;;Virtual Boy (Nintendo);;;;;;;;;
+;Arcade tennis;Vitual Boy;Nintendo;1;;Mario's tennis ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Mario%27s_Tennis
+;Puzzle game;Vitual Boy;Hudson Soft/Nintendo;1;;Panic bomber ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Panic_Bomber
+;Shoot them up;Vitual Boy;Hudson Soft/Nintendo;1;;Vertical force ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Vertical_Force
+;Puzzle game;Vitual Boy;Bullet-Proof Software;1;;Vtetris ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/V-Tetris
+;;;;1;;;;;;;;;;;
+;;;;1;;Wii (Nintendo);;;;;;;;;
+;Beat them all;Wii;Namco/Bandai;1;EU;Dragon Ball revenge of king piccolo ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Dragon_Ball:_Revenge_of_King_Piccolo
+;Coaching sportif;Wii;EA;1;EU;EA sport active ;;9;1;9;1;9;;;
+;Tactic-RPG;Wii;SquareEnix;1;EU;Final Fantasy Crystal Chronicles Echoes of Time;;;;;;;;;http://fr.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles:_Echoes_of_Time
+;Simulation de danse ;Wii;Ubisoft;1;EU;Just dance ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Just_Dance_%28jeu_vid%C3%A9o%29
+;Arcade karting ;Wii;Nintendo;1;EU;Mario Kart Wii ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Mario_Kart_Wii
+;Plate-forme 2D;Wii;Nintendo;1;EU;New Super Mario Bros. Wii ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/New_Super_Mario_Bros._Wii
+;Simulation skate ;Wii;EA;1;EU;Skate it ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Skate_It
+;point and click ;Wii;Atlus;1;EU;Trauma Center : New Blood ;;9;1;9;1;9;;;
+;Coaching sportif;Wii;Nintendo;1;EU;Wii fit ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Wii_Fit
+;Mini jeux;Wii;Nintendo;1;EU;Wii play ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Wii_Play
+;Simulation sportive ;Wii;Nintendo;1;EU;Wii sports ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Wii_Sports
+;;;;1;;;;;;;;;;;
+;;;;1;;32x (SEGA);;;;;;;;;
+;Shoot them up;32x;sega;1;EU;Space Harrier;;7;1;7;1;7;;30 €;http://fr.wikipedia.org/wiki/Space_Harrier
+;Arcade motocross ;32x;sega;1;EU;Motocross Championship;;7;0;;0;;;5 €;http://fr.wikipedia.org/wiki/Motocross_Championship
+;combat 3D;32x;sega;1;EU;Virtua Fighters;;7;1;7;1;7;;;http://fr.wikipedia.org/wiki/Virtua_Fighter
+;Simulation voiture;32x;sega;1;EU;Virtua Racing;;7;1;7;1;7;;;http://fr.wikipedia.org/wiki/Virtua_Racing
+;;;;1;;;;;;;;;;;
+;;;;1;;Dreamcast (SEGA);;;;;;;;;
+;Simulation Hockey ;Dreamcast;2K Sports;1;;NHL ;;;;;;;;;
+;Hack and slash ;Dreamcast;Sega;1;;Phantasy star online ;;;;;;;;;http://fr.wikipedia.org/wiki/Phantasy_Star_Online
+;FPS;Dreamcast;Activision;1;;Quake III arena ;;;;;;;;;http://fr.wikipedia.org/wiki/Quake_III_Arena
+;Action-aventure ;Dreamcast;Sega;1;;Sonic adventure ;;;;;;;;;http://fr.wikipedia.org/wiki/Sonic_Adventure
+;Action-aventure ;Dreamcast;Sega;1;;Sonic adventure 2 the trial ;;;;;;;;;http://fr.wikipedia.org/wiki/Sonic_Adventure_2
+;combat 3D;Dreamcast;Namco;1;;Soul calibur ;;;;;;;;;http://fr.wikipedia.org/wiki/Soul_Calibur
+;Simulation foot;Dreamcast;;1;;SWWS 2000 ;;;;;;;;;
+;combat 3D;Dreamcast;;1;;Virtua Fighter 3tb;;;;;;;;;
+;Simulation tennis ;Dreamcast;Sega;1;;Virtua tennis ;;;;;;;;;http://fr.wikipedia.org/wiki/Virtua_Tennis
+;;;;1;;;;;;;;;;;
+;;;;1;;Game Gear (SEGA);;;;;;;;;
+;Beat them all;Game Gear;;1;;Ax battler a legend of golden axe ;;;;;;;;;
+;Action;Game Gear;Sony Imagesoft;1;;Hook ;;;;;;;;;http://fr.wikipedia.org/wiki/Hook_%28jeu_vid%C3%A9o,_Sony_Imagesoft%29
+;Plate-forme 2D;Game Gear;Sega;1;;Sonic the Hedgehog ;;;;;;;;;http://fr.wikipedia.org/wiki/Sonic_the_Hedgehog_%28jeu_vid%C3%A9o,_1991%29
+;Combat 2D;Game Gear;;1;;Virtua Fighter Kids;;;;;;;;;
+;;;;1;;;;;;;;;;;
+;;;;1;;Master System (SEGA);;;;;;;;;
+;Combat 2D;Master System 1&2;Sega;1;;Action fighter ;;;;;;;;;http://fr.wikipedia.org/wiki/Action_Fighter
+;Plate-forme 2D;Master System 1&2;Sega;1;;Alex kidd in shinobi world ;;;;;;;;;http://fr.wikipedia.org/wiki/Alex_Kidd_in_Shinobi_World
+;Plate-forme 2D;Master System 1&2;Sega;1;;Astérix ;;;;;;;;;http://fr.wikipedia.org/wiki/Ast%C3%A9rix_%28Master_System%29
+;shoot them up;Master System 1&2;Sega;1;;Bomber raid ;;;;;;;;;http://fr.wikipedia.org/wiki/Bomber_Raid
+;Jeux de casino ;Master System 1&2;;1;;Casino games ;;;;;;;;;
+;Plate-forme 2D;Master System 1&2;Sega;1;;Castle of illusion starring mickey mouse ;;;;;;;;;http://fr.wikipedia.org/wiki/Castle_of_Illusion
+;beat them all;Master System 1&2;Sega;1;;Golden axe ;;;;;;;;;http://fr.wikipedia.org/wiki/Golden_Axe
+;Réflexion;Master System 1&2;Atari;1;;Klax ;;;;;;;;;http://fr.wikipedia.org/wiki/Klax_%28jeu_vid%C3%A9o%29
+;Plate-forme 2D;Master System 1&2;;1;;Kung fu kid ;;;;;;;;;
+;Plate-forme 2D;Master System 1&2;Sega;1;;Moonwalker;;;;;;;;;http://fr.wikipedia.org/wiki/Michael_Jackson%27s_Moonwalker
+;Action;Master System 1&2;Atari;1;;Paperboy ;;;;;;;;;http://fr.wikipedia.org/wiki/Paperboy
+;Plate-forme 2D;Master System 1&2;Sega;1;;Psycho fox ;;;;;;;;;http://fr.wikipedia.org/wiki/Psycho_Fox
+;Stratégie ;Master System 1&2;Atari;1;;Rampart ;;;;;;;;;http://fr.wikipedia.org/wiki/Rampart
+;Simulation voiture télécommandées ;Master System 1&2;;1;;RC grand prix ;;;;;;;;;
+;Plate-forme 2D;Master System 1&2;Sega;1;;Shinobi;;;;;;;;;http://fr.wikipedia.org/wiki/Shinobi_%28jeu_vid%C3%A9o,_1987%29
+;shoot them up;Master System 1&2;Taito;1;;Super space invaders ;;;;;;;;;http://fr.wikipedia.org/wiki/Super_Space_Invaders_%2791
+;Plate-forme 2D;Master System 1&2;;1;;The cyber shinobi ;;;;;;;;;
+;Plate-forme 2D;Master System 1&2;;1;;The cyber shinobi ;;;;;;;;;
+;beat them all;Master System 1&2;Sega;1;;The ninja ;;;;;;;;;http://fr.wikipedia.org/wiki/The_Ninja
+;shoot them up;Master System 1&2;Sega;1;;Thunder blade ;;;;;;;;;http://fr.wikipedia.org/wiki/Thunder_Blade
+;RPG;Master System 1&2;Origin Systems;1;;Ultima IV ;;;;;;;;;http://fr.wikipedia.org/wiki/Ultima_IV
+;;;;1;;;;;;;;;;;
+;;;;1;;Megacd (SEGA);;;;;;;;;
+;Plate-forme 2D;Megacd 1&2;Sega;1;EU;Ecco the dolphin;france;5;1;3;1;5;;30 €;http://fr.wikipedia.org/wiki/Ecco_the_Dolphin
+;Aventure ;Megacd 1&2;Virgin Interactive;1;EU;Dune;france;5;0;3;1;7;;10 €;http://fr.wikipedia.org/wiki/Dune_%28jeu_vid%C3%A9o%29
+;shoot them up;Megacd 1&2;Wolfteam;1;EU;Sol-Deace;;5;0;;0;;;5 €;http://fr.wikipedia.org/wiki/Sol-Deace
+;;;;1;;;;;;;;;;;
+;;;;1;;Megadrive (SEGA);;;;;;;;;
+;Plate-forme 2D;Megadrive 1&2 & Nomad;Virgin Interactive;1;;Aladdin ;;;;;;;;;http://fr.wikipedia.org/wiki/Aladdin_%28Virgin%29
+;Plate-forme 2D;Megadrive 1&2 & Nomad;Sega;1;;Castle of illusion starring mickey mouse ;;;;;;;;;http://fr.wikipedia.org/wiki/Castle_of_Illusion
+;Plate-forme 2D;Megadrive 1&2 & Nomad;Sega;1;;Comix Zone ;;;;;;;;;http://fr.wikipedia.org/wiki/Comix_Zone
+;Plate-forme 2D;Megadrive 1&2 & Nomad;Virgin Interactive;1;;Cool spot ;;;;;;;;;http://fr.wikipedia.org/wiki/Cool_Spot
+;simulation Basket;Megadrive 1&2 & Nomad;Sega;1;;David robinson's supreme court ;;;;;;;;;http://fr.wikipedia.org/wiki/David_Robinson%27s_Supreme_Court
+;Plate-forme 2D;Megadrive 1&2 & Nomad;Sega;1;;Disney tales spin ;;;;;;;;;http://fr.wikipedia.org/wiki/TaleSpin_%28jeu_vid%C3%A9o%29
+;Plate-forme 2D;Megadrive 1&2 & Nomad;Disney Interactive;1;;Donald in maui mallard ;;;;;;;;;http://fr.wikipedia.org/wiki/Donald_Duck_in_Maui_Mallard
+;Plate-forme 2D;Megadrive 1&2 & Nomad;Sega;1;;Ecco the Dolphin ;;;;;;;;;http://fr.wikipedia.org/wiki/Ecco_the_Dolphin
+;Simulation boxe;Megadrive 1&2 & Nomad;Sega;1;;Evander holyfield's boxing ;;;;;;;;;http://fr.wikipedia.org/wiki/Evander_Holyfield%27s_%22Real_Deal%22_Boxing
+;Combat 2D;Megadrive 1&2 & Nomad;SNK;1;;Fatal Fury ;;;;;;;;;http://fr.wikipedia.org/wiki/Fatal_Fury:_King_of_Fighters
+;Combat 2D;Megadrive 1&2 & Nomad;SNK;1;;Fatal Fury 2 ;;;;;;;;;http://fr.wikipedia.org/wiki/Fatal_Fury_2
+;Simulation foot;Megadrive 1&2 & Nomad;EA;1;;fifa 1995 ;;;;;;;;;http://fr.wikipedia.org/wiki/FIFA_Soccer_95
+;Simulation foot;Megadrive 1&2 & Nomad;EA;1;;Fifa 1996 ;;;;;;;;;http://fr.wikipedia.org/wiki/FIFA_Soccer_96
+;Simulation foot;Megadrive 1&2 & Nomad;EA;1;;Fifa 1997 ;;;;;;;;;http://fr.wikipedia.org/wiki/FIFA_97
+;Plate-forme 2D;Megadrive 1&2 & Nomad;Sega/Virgin Interactive;1;;Le roi lion ;;;;;;;;;http://fr.wikipedia.org/wiki/Le_Roi_lion_%28jeu_vid%C3%A9o%29
+;Simulation voiture télécommandées ;Megadrive 1&2 & Nomad;;1;;Micromachines ;;;;;;;;;
+;Simulation voiture;Megadrive 1&2 & Nomad;;1;;Monaco GP 2 ;;;;;;;;;
+;Plate-forme 2D;Megadrive 1&2 & Nomad;;1;;Moonwalker;;;;;;;;;
+;Combat 2D;Megadrive 1&2 & Nomad;Aklaim Entertainment;1;;Mortal Kombat ;;;;;;;;;http://fr.wikipedia.org/wiki/Mortal_Kombat_%28jeu_vid%C3%A9o,_1992%29
+;Combat 2D;Megadrive 1&2 & Nomad;Aklaim Entertainment;1;;Mortal Kombat 2 ;;;;;;;;;http://fr.wikipedia.org/wiki/Mortal_Kombat_II
+;Simulation sportive ;Megadrive 1&2 & Nomad;Sega;1;;Olympic gold ;;;;;;;;;http://fr.wikipedia.org/wiki/Olympic_Gold
+;Arcade voiture;Megadrive 1&2 & Nomad;Sega;1;;Outrun;;;;;;;;;http://fr.wikipedia.org/wiki/Out_Run
+;Plate-forme 2D;Megadrive 1&2 & Nomad;Activision/Atari;1;;Pitfall: The Mayan Adventure ;;;;;;;;;http://fr.wikipedia.org/wiki/Pitfall:_The_Mayan_Adventure
+;Plate-forme 2D;Megadrive 1&2 & Nomad;Sega;1;;Quackshot ;;;;;;;;;http://fr.wikipedia.org/wiki/Quackshot
+;Plate-forme 2D;Megadrive 1&2 & Nomad;Konami;1;;Rocket knight adventures ;;;;;;;;;http://fr.wikipedia.org/wiki/Rocket_Knight_Adventures
+;Plate-forme 3D;Megadrive 1&2 & Nomad;Sega;1;;Sonic 3D Flickies' Island;;;;;;;;;http://fr.wikipedia.org/wiki/Sonic_3D_Flickies%27_Island
+;Plate-forme 2D;Megadrive 1&2 & Nomad;Sega;1;;Sonic compilation (1,2 et Dr. Robotnik's Mean Bean Machine) ;;;;;;;;;http://fr.wikipedia.org/wiki/Sonic_Compilation#Sonic_Compilation
+;Flipper;Megadrive 1&2 & Nomad;Sega;1;;Sonic spinball ;;;;;;;;;http://fr.wikipedia.org/wiki/Sonic_the_Hedgehog_Spinball
+;Plate-forme 2D;Megadrive 1&2 & Nomad;Sega;1;;Sonic the Hedgehog ;;;;;;;;;http://fr.wikipedia.org/wiki/Sonic_the_Hedgehog_%28jeu_vid%C3%A9o,_1991%29
+;Plate-forme 2D;Megadrive 1&2 & Nomad;Sega;1;;Sonic the Hedgehog 2 ;;;;;;;;;http://fr.wikipedia.org/wiki/Sonic_the_Hedgehog_2
+;Plate-forme 2D;Megadrive 1&2 & Nomad;Sega;1;;Sonic the Hedgehog 3 ;;;;;;;;;http://fr.wikipedia.org/wiki/Sonic_the_Hedgehog_3
+;beat them all;Megadrive 1&2 & Nomad;Sega;1;;Streets of rage ;;;;;;;;;http://fr.wikipedia.org/wiki/Streets_of_Rage
+;simulation moto;Megadrive 1&2 & Nomad;Sega;1;;Super Hang-on;;;;;;;;;http://fr.wikipedia.org/wiki/Super_Hang-On
+;Plate-forme 2D;Megadrive 1&2 & Nomad;Sega;1;;Tazmania ;;;;;;;;;http://fr.wikipedia.org/wiki/Taz-Mania
+;beat them all;Megadrive 1&2 & Nomad;Konami;1;;Teenage Mutant Hero Turtles: The HyperStone Heist ;;;;;;;;;http://fr.wikipedia.org/wiki/Teenage_Mutant_Hero_Turtles:_The_HyperStone_Heist
+;Action;Megadrive 1&2 & Nomad;LJN;1;;The Incredible Crash Dummies ;;;;;;;;;http://fr.wikipedia.org/wiki/The_Incredible_Crash_Dummies_%28jeu_vid%C3%A9o%29
+;Plate-forme 2D;Megadrive 1&2 & Nomad;;1;;The lucky dime carer donald duck ;;;;;;;;;
+;Simulation sportive ;Megadrive 1&2 & Nomad;U.S. Gold;1;;Winter Olympics;;;;;;;;;http://fr.wikipedia.org/wiki/Winter_Olympics:_Lillehammer_%2794
+;Plate-forme 2D;Megadrive 1&2 & Nomad;;1;;Wonder boy III monster land ;;;;;;;;;
+;Plate-forme 2D;Megadrive 1&2 & Nomad;Sega;1;;World of illusion starring disney's mickey mouse & donald duck ;;;;;;;;;http://fr.wikipedia.org/wiki/World_of_Illusion
+;;;;1;;;;;;;;;;;
+;;;;1;;Saturn (SEGA);;;;;;;;;
+;Stratégie ;Saturn;Westwood Studios;1;;Command & Conquer ;;;;;;;;;http://fr.wikipedia.org/wiki/Command_%26_Conquer
+;;Saturn;;1;JP;Evangelion;;;;;;;;;
+;FPS;Saturn;Playmates Interactive;1;;Exhumed ;;;;;;;;;http://fr.wikipedia.org/wiki/Exhumed
+;Plate-forme 2D;Saturn;Ubisoft;1;;Rayman ;;;;;;;;;http://fr.wikipedia.org/wiki/Rayman_%28jeu_vid%C3%A9o%29
+;Plate-forme 3D;Saturn;Sega;1;;Sonic 3D ;;;;;;;;;http://fr.wikipedia.org/wiki/Sonic_3D_Flickies%27_Island
+;Plate-forme 3D;Saturn;Eidos Interactive;1;;Tomb raider ;;;;;;;;;http://fr.wikipedia.org/wiki/Tomb_Raider
+;Tir/action ;Saturn;;1;;Tunnel B1 ;;;;;;;;;
+;combat 3D;Saturn;Sega;1;;Virtua Fighter ;;;;;;;;;http://fr.wikipedia.org/wiki/Virtua_Fighter
+;combat 3D;Saturn;Sega;1;;Virtua Fighter 2 ;;;;;;;;;http://fr.wikipedia.org/wiki/Virtua_Fighter_2
+;combat 3D;Saturn;Sega;1;;Virtua Fighter Kids ;;;;;;;;;
+;Simulation voiture;Saturn;Sega;1;;Virtua Racing ;;;;;;;;;http://fr.wikipedia.org/wiki/Virtua_Racing
+;;;;1;;;;;;;;;;;
+;;;;1;;Neo GEO AES (SNK);;;;;;;;;
+;;;;1;;;;;;;;;;;
+;;;;1;;Playstation (Sony);;;;;;;;;
+;Simulation économique ;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Activision;1;;Civilization II ;;;;;;;;;http://fr.wikipedia.org/wiki/Civilization_II
+;Stratégie ;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Westwood Studios;1;;Command & conquer alert rouge mission tesla ;;;;;;;;;http://fr.wikipedia.org/wiki/Command_%26_Conquer_:_Alerte_rouge#Missions_Tesla
+;hack and slash ;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Blizzard;1;;Diablo ;;;;;;;;;http://fr.wikipedia.org/wiki/Diablo_%28jeu_vid%C3%A9o%29
+;FPS;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;GT Interactive;1;;Duke nulem land of the babes ;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Duke_Nukem:_Land_of_the_Babes
+;Stratégie ;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Virgin Interactive;1;;Dune 2000 ;;;;;;;;;http://fr.wikipedia.org/wiki/Dune_2000
+;combat 3D;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;;1;;Dynasty warriors ;;;;;;;;;
+;RPG;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;SquareEnix;1;EN;Final Fantasy origins;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Final_Fantasy_Origins
+;RPG;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Square;1;EN;Final Fantasy Anthology;;;;;;;;;http://fr.wikipedia.org/wiki/Final_Fantasy_Anthology
+;RPG;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Square;1;JP;Final Fantasy premium package;;;;;;;;;
+;RPG;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Squaresoft;1;EN;Final Fantasy VI;;;;;;;;;http://fr.wikipedia.org/wiki/Final_Fantasy_VI
+;RPG;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Squaresoft;1;FR;Final Fantasy VII ;;;;;;;;;http://fr.wikipedia.org/wiki/Final_Fantasy_VII
+;RPG;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Squaresoft;1;FR;Final Fantasy VII ;;;;;;;;;http://fr.wikipedia.org/wiki/Final_Fantasy_VII
+;RPG;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Squaresoft;1;FR;Final Fantasy VII ;;;;;;;;;http://fr.wikipedia.org/wiki/Final_Fantasy_VII
+;RPG;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Squaresoft;1;FR;Final Fantasy VII platinium;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Final_Fantasy_VII
+;RPG;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Squaresoft;1;FR;Final Fantasy VII platinium;;;;;;;;;http://fr.wikipedia.org/wiki/Final_Fantasy_VII
+;RPG;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Squaresoft;1;FR;Final Fantasy VII platinium;;;;;;;;;http://fr.wikipedia.org/wiki/Final_Fantasy_VII
+;RPG;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Squaresoft;1;FR;Final Fantasy VII version presse;;;;;;;;;http://fr.wikipedia.org/wiki/Final_Fantasy_VII
+;RPG;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Squaresoft;1;EN;Final Fantasy VII version presse;;;;;;;;;http://fr.wikipedia.org/wiki/Final_Fantasy_VII
+;RPG;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Squaresoft;1;EN;Final Fantasy VII demo sysgraph 95;;;;;;;;;http://fr.wikipedia.org/wiki/Final_Fantasy_VII
+;RPG;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Squaresoft;1;FR;Final Fantasy VIII demo;;;;;;;;;http://fr.wikipedia.org/wiki/Final_Fantasy_VIII
+;RPG;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Squaresoft;1;FR;Final Fantasy VIII demo;;;;;;;;;http://fr.wikipedia.org/wiki/Final_Fantasy_VIII
+;RPG;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Squaresoft;1;FR;Final Fantasy VIII;;;;;;;;;http://fr.wikipedia.org/wiki/Final_Fantasy_VIII
+;RPG;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Squaresoft;1;FR;Final Fantasy VIII;;;;;;;;;http://fr.wikipedia.org/wiki/Final_Fantasy_VIII
+;RPG;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Squaresoft;1;FR;Final Fantasy VIII platinium;;;;;;;;;http://fr.wikipedia.org/wiki/Final_Fantasy_VIII
+;RPG;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Squaresoft;1;FR;Final Fantasy IX;;;;;;;;;http://fr.wikipedia.org/wiki/Final_Fantasy_IX
+;RPG;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Squaresoft;1;FR;Final Fantasy IX platinium;;;;;;;;;http://fr.wikipedia.org/wiki/Final_Fantasy_IX
+;Simulation voiture;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Sony;1;;Grand tourismo ;;;;;;;;;http://fr.wikipedia.org/wiki/Gran_Turismo
+;FPS;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;EA;1;;Medal of honor ;;;;;;;;;http://fr.wikipedia.org/wiki/Medal_of_Honor_%28jeu_vid%C3%A9o%29
+;Infiltration;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Konami;1;;Metal gear solid ;;;;;;;;;http://fr.wikipedia.org/wiki/Metal_Gear_Solid
+;simulation Basket;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;EA;1;;NBA live 98 ;;;;;;;;;http://fr.wikipedia.org/wiki/NBA_Live_98
+;Simulation voiture;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Sony;1;;Porsche challenge ;;;;;;;;;http://fr.wikipedia.org/wiki/Porsche_Challenge
+;Plate-forme 2D;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Ubisoft;1;;Rayman;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Rayman_%28jeu_vid%C3%A9o%29
+;Infiltration;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;989 Studios;1;;Syphon filter ;;;;;;;;;http://fr.wikipedia.org/wiki/Syphon_Filter_%28jeu_vid%C3%A9o%29
+;Infiltration;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Sony;1;;Syphon filter 2 ;;;;;;;;;http://fr.wikipedia.org/wiki/Syphon_Filter_2
+;combat 3D;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Namco;1;;Tekken 3 ;;;;;;;;;http://fr.wikipedia.org/wiki/Tekken_3
+;RPG;Playstation & Psone & Playstation 2 & Pstwo & Playstation 3;Sony;1;;Wild arms ;;;;;;;;;http://fr.wikipedia.org/wiki/Wild_Arms
+;;;;1;;;;;;;;;;;
+;;;;1;;Playstation 2 (Sony);;;;;;;;;
+;puzzle game;Playstation 2 & Pstwo & Playstation 3;;1;;Bonanza bros ;;;;;;;;;
+;Réflexion;Playstation 2 & Pstwo & Playstation 3;;1;;Buzz le mega quizz ;;;;;;;;;
+;Combat 2D;Playstation 2 & Pstwo & Playstation 3;;1;;Capcom VS snk 2 ;;;;;;;;;
+;combat 3D;Playstation 2 & Pstwo & Playstation 3;Infogrames/Bandai;1;;Dragon ball Z budokaï ;;;;;;;;;http://fr.wikipedia.org/wiki/Dragon_Ball_Z:_Budokai
+;combat 3D;Playstation 2 & Pstwo & Playstation 3;Atari/Bandai;1;;Dragon ball Z budokaï 3 ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Dragon_Ball_Z:_Budokai_3
+;combat 3D;Playstation 2 & Pstwo & Playstation 3;Atari;1;;Dragon ball Z budokaï tenkaïchi ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Dragon_Ball_Z:_Budokai_Tenkaichi
+;combat 3D;Playstation 2 & Pstwo & Playstation 3;Atari;1;;Dragon ball Z budokaï tenkaïchi 2 ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Dragon_Ball_Z:_Budokai_Tenkaichi_2
+;RPG;Playstation 2 & Pstwo & Playstation 3;SquareEnix;1;;Dragon quest VIII ;;;;;;;;;http://fr.wikipedia.org/wiki/Dragon_Quest_VIII
+;Eye toy;Playstation 2 & Pstwo & Playstation 3;Sony;1;;Eye toy play 2 ;;;;;;;;;
+;Eye toy;Playstation 2 & Pstwo & Playstation 3;Sony;1;;Eye toy play 3 ;;;;;;;;;
+;Action-RPG ;Playstation 2 & Pstwo & Playstation 3;SquareEnix;1;FR;Dirge of Cerberus: Final Fantasy VII;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Dirge_of_Cerberus:_Final_Fantasy_VII
+;RPG;Playstation 2 & Pstwo & Playstation 3;Squaresoft;1;FR;Final Fantasy X;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Final_Fantasy_X
+;RPG;Playstation 2 & Pstwo & Playstation 3;Squaresoft;1;FR;Final Fantasy X;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Final_Fantasy_X
+;RPG;Playstation 2 & Pstwo & Playstation 3;Squaresoft;1;FR;Final Fantasy X;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Final_Fantasy_X
+;RPG;Playstation 2 & Pstwo & Playstation 3;Squaresoft;1;FR;Final Fantasy X edition special;;;;;;;;;http://fr.wikipedia.org/wiki/Final_Fantasy_X
+;RPG;Playstation 2 & Pstwo & Playstation 3;Squaresoft;1;FR;Final Fantasy X platinium;;;;;;;;;http://fr.wikipedia.org/wiki/Final_Fantasy_X
+;RPG;Playstation 2 & Pstwo & Playstation 3;Squaresoft;1;FR;Final Fantasy X-2;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Final_Fantasy_X-2
+;RPG;Playstation 2 & Pstwo & Playstation 3;Squaresoft;1;FR;Final Fantasy X-2 platinium;;;;;;;;;http://fr.wikipedia.org/wiki/Final_Fantasy_X-2
+;RPG;Playstation 2 & Pstwo & Playstation 3;SquareEnix;1;FR;Final Fantasy XII;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Final_Fantasy_XII
+;RPG;Playstation 2 & Pstwo & Playstation 3;SquareEnix;1;FR;Final Fantasy XII;;10;1;10;1;10;neuf emballé;;http://fr.wikipedia.org/wiki/Final_Fantasy_XII
+;RPG;Playstation 2 & Pstwo & Playstation 3;SquareEnix;1;FR;Final Fantasy XII;;;;;;;;;http://fr.wikipedia.org/wiki/Final_Fantasy_XII
+;Simulation voiture;Playstation 2 & Pstwo & Playstation 3;Sony;1;;Grand tourismo 3 ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Gran_Turismo_3_A-spec
+;Simulation voiture;Playstation 2 & Pstwo & Playstation 3;Sony;1;;Grand tourismo 4 ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Gran_Turismo_4
+;Simulation musicale;Playstation 2 & Pstwo & Playstation 3;RedOctane;1;;Guitar hero ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Guitar_Hero
+;Simulation musicale;Playstation 2 & Pstwo & Playstation 3;RedOctane;1;;Guitar hero II ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Guitar_Hero_II
+;Simulation musicale;Playstation 2 & Pstwo & Playstation 3;RedOctane;1;;Guitar hero rock the 80's ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Guitar_Hero:_Rocks_the_80s
+;Coaching sportif;Playstation 2 & Pstwo & Playstation 3;;1;;Kinetic ;;;;;;;;;
+;Action-aventure ;Playstation 2 & Pstwo & Playstation 3;Eidos Interactive;1;;Lego star wars ;;;;;;;;;http://fr.wikipedia.org/wiki/Lego_Star_Wars_:_le_Jeu_vid%C3%A9o
+;Action-aventure ;Playstation 2 & Pstwo & Playstation 3;Eidos Interactive;1;;Lego star wars II : La Trilogie originale;;;;;;;;;http://fr.wikipedia.org/wiki/Lego_Star_Wars_II_:_la_Trilogie_originale
+;Infiltration;Playstation 2 & Pstwo & Playstation 3;Konami;1;;Metal gear solid 2 : Sons of Liberty;Platinium;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Metal_Gear_Solid_2:_Sons_of_Liberty
+;Infiltration;Playstation 2 & Pstwo & Playstation 3;Konami;1;;Metal gear solid 3 : Snake Eater;Metal;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Metal_Gear_Solid_3:_Snake_Eater
+;combat 3D;Playstation 2 & Pstwo & Playstation 3;;1;;Saint Seiya, Les Chevaliers du Zodiaque : Hadès ;;10;1;10;1;10;neuf emballé;;
+;combat 3D;Playstation 2 & Pstwo & Playstation 3;;1;;Saint Seiya, Les Chevaliers du Zodiaque : Le Sanctuaire ;;9;1;9;1;9;;;
+;combat 3D;Playstation 2 & Pstwo & Playstation 3;Namco;1;;Tekken 4 ;;;;;;;;;http://fr.wikipedia.org/wiki/Tekken_4
+;;;;1;;;;;;;;;;;
+;;;;1;;Playstation 3 (Sony);;;;;;;;;
+;Action-aventure ;Playstation 3 & Playstation 3 slim;Ubisoft;1;FR;Assasin's creed ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Assassin%27s_Creed
+;Action-aventure ;Playstation 3 & Playstation 3 slim;Ubisoft;1;FR;Assasin's creed II ;;9;1;9;1;9;Version colector avec figurine;;http://fr.wikipedia.org/wiki/Assassin%27s_Creed_II
+;Action-aventure ;Playstation 3 & Playstation 3 slim;Ubisoft;1;FR;Assasin's creed Brotherhood ;;9;1;9;1;9;Version colector;;http://fr.wikipedia.org/wiki/Assassin%27s_Creed_:_Brotherhood
+;Action-aventure ;Playstation 3 & Playstation 3 slim;Ubisoft;1;FR;Assasin's creed Revelations ;;9;1;9;1;9;Version colector Animus;;http://fr.wikipedia.org/wiki/Assassin%27s_Creed_:_Revelations
+;combat 3D;Playstation 3 & Playstation 3 slim;Bandai;1;EU;Dragon ball Z burst limit ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Dragon_Ball_Z:_Burst_Limit
+;combat 3D;Playstation 3 & Playstation 3 slim;Bandai;1;EU;Dragon ball Z raging blast ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Dragon_Ball:_Raging_Blast
+;Coaching sportif;Playstation 3 & Playstation 3 slim;EA;1;;EA sport active 2 ;;9;1;9;1;9;;;
+;RPG;Playstation 3 & Playstation 3 slim;Namco Bandai;1;;Eternal sonata ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Eternal_Sonata
+;Simulation voiture;Playstation 3 & Playstation 3 slim;;1;;F1 championship edition ;;9;1;9;1;9;;;
+;RPG;Playstation 3 & Playstation 3 slim;SquareEnix;1;FR;Final Fantasy XIII ;;9;1;9;1;9;Version colector;;http://fr.wikipedia.org/wiki/Final_Fantasy_XIII
+;Simulation voiture;Playstation 3 & Playstation 3 slim;Sony;1;EU;Grand tourismo 5 ;;9;1;9;1;9;Version colector;;http://fr.wikipedia.org/wiki/Gran_Turismo_5
+;Simulation musicale;Playstation 3 & Playstation 3 slim;RedOctane;1;FR;Guitar hero III legends of rock ;;9;1;9;1;9;Bundle guitare;;http://fr.wikipedia.org/wiki/Guitar_Hero_III:_Legends_of_Rock
+;Simulation musicale;Playstation 3 & Playstation 3 slim;Activision Blizzard;1;FR;Guitar hero world tour ;;9;1;9;1;9;Bundle complet (batterie + guitare + micro);;http://fr.wikipedia.org/wiki/Guitar_Hero:_World_Tour
+;Simulation musicale;Playstation 3 & Playstation 3 slim;;1;FR;Guitar hero Band Hero ;;9;1;9;1;9;Bundle guitare;;
+;Simulation musicale;Playstation 3 & Playstation 3 slim;Activision RedOctane;1;FR;Guitar hero 5 ;;9;1;9;1;9;Bundle guitare;;http://fr.wikipedia.org/wiki/Guitar_Hero_5
+;Simulation musicale;Playstation 3 & Playstation 3 slim;;1;FR;Guitar hero Wariors of rock;;9;1;9;1;9;Bundle guitare;;
+;hack and slash ;Playstation 3 & Playstation 3 slim;Sony;1;FR;Heavenly sword ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Heavenly_Sword
+;Action-aventure ;Playstation 3 & Playstation 3 slim;Lucas arts;1;;Lego indiana jones la trilogie originale ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/LEGO_Indiana_Jones_:_la_Trilogie_originale
+;Action-aventure ;Playstation 3 & Playstation 3 slim;EA;1;;Mirror's age ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Mirror%27s_Edge
+;simulation Basket;Playstation 3 & Playstation 3 slim;2K Sports;1;;NBA 2K8 ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/NBA_2K8
+;Arcade voiture;Playstation 3 & Playstation 3 slim;EA;1;;Need for speed carbon ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Need_for_Speed:_Carbon
+;Arcade voiture;Playstation 3 & Playstation 3 slim;EA;1;;Need For Speed Undercover ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Need_for_Speed:_Undercover
+;Action-aventure ;Playstation 3 & Playstation 3 slim;Buena Vista Games;1;;Pirates des caraibes : jusqu'au bout du monde ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Pirates_des_Cara%C3%AFbes_:_Jusqu%27au_bout_du_monde_%28jeu_vid%C3%A9o%29
+;Action-aventure ;Playstation 3 & Playstation 3 slim;Sony;1;;Ratchet & clank operation destruction ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Ratchet_%26_Clank_:_Op%C3%A9ration_Destruction
+;Retro;Playstation 3 & Playstation 3 slim;;1;;Sega Megadrive Ultimate Collection;;9;1;9;1;9;;;
+;Simulation skate ;Playstation 3 & Playstation 3 slim;EA;1;;Skate ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Skate.
+;Simulation catch ;Playstation 3 & Playstation 3 slim;;1;;Smack down VS raw 2008 ;;9;1;9;1;9;;;
+;RPG;Playstation 3 & Playstation 3 slim;SquareEnix;1;;Star Ocean : The Last Hope ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Star_Ocean:_The_Last_Hope
+;Eye toy/cartes;Playstation 3 & Playstation 3 slim;Sony;1;;The eye of the judgment ;;9;1;9;1;9;Bundle avec Eye toy play 3;;http://fr.wikipedia.org/wiki/The_Eye_of_Judgment
+;FPS;Playstation 3 & Playstation 3 slim;Midway;1;;Unrealtournament III ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Unreal_Tournament_3
+;combat 3D;playstation 3 & playstation 3 slim;Sega;1;;Virtua Fighters 5 ;;9;1;9;1;9;;;http://fr.wikipedia.org/wiki/Virtua_Fighter_5
+;;;;1;;;;;;;;;;;
+;;;;1;;PSP (Sony);;;;;;;;;
+;puzzle game;PSP & PSP slim & PSP 3000;Namco Bandai;1;;Every Extend Extra ;;;;;;;;;http://fr.wikipedia.org/wiki/Every_Extend_Extra
+;RPG;PSP & PSP slim & PSP 3000;SquareEnix;1;;Final Fantasy ;;;;;;;;;http://fr.wikipedia.org/wiki/Final_Fantasy_%28jeu_vid%C3%A9o%29
+;RPG;PSP & PSP slim & PSP 3000;SquareEnix;1;;Final Fantasy II ;;;;;;;;;http://fr.wikipedia.org/wiki/Final_Fantasy_II
+;Action-RPG ;PSP & PSP slim & PSP 3000;SquareEnix;1;;Final Fantasy VII crisis core ;;;;;;;;;http://fr.wikipedia.org/wiki/Crisis_Core:_Final_Fantasy_VII
+;GTA like ;PSP & PSP slim & PSP 3000;Rockstar Games;1;;Grand theft auto vice city stories ;;;;;;;;;http://fr.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City_Stories
+;puzzle game;PSP & PSP slim & PSP 3000;;1;;Gunpey ;;;;;;;;;
+;Simulation de vie ;PSP & PSP slim & PSP 3000;EA;1;;Les sims 2 : animaux & cie ;;;;;;;;;http://fr.wikipedia.org/wiki/Les_Sims_2_:_Animaux_et_Cie
+;Infiltration;PSP & PSP slim & PSP 3000;Konami;1;;Metal gear solid portable ops plus ;;;;;;;;;http://fr.wikipedia.org/wiki/Metal_Gear_Solid:_Portable_Ops_Plus
+;;;;1;;;;;;;;;;;
+;;;;1;;Microvision (MB);;;;;;;;;
+;Casse brique;Microvision;MB;1;;Cartouche n°1 : Casse brique;;8;1;8;1;8;;;
+;Flipper;Microvision;MB;1;;Cartouche n°4 : Flipper;;8;1;8;1;8;;;
+;?;Microvision;MB;1;;Cartouche n°6 : Bataille navale;;8;1;8;1;8;;;

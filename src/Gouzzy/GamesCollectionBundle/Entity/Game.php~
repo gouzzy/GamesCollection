@@ -29,39 +29,21 @@ class Game
     private $name;
 
     /**
-    * @ORM\ManyToOne(targetEntity="Gouzzy\GamesCollectionBundle\Entity\Genre")
+    * @ORM\ManyToOne(targetEntity="Gouzzy\GamesCollectionBundle\Entity\GenericGame")
     * @ORM\JoinColumn(nullable=false)
     */
-    private $genre;
-
-    /**
-    * @ORM\ManyToOne(targetEntity="Gouzzy\GamesCollectionBundle\Entity\Console")
-    * @ORM\JoinColumn(nullable=false)
-    */
-    private $console;
-    
-    /**
-    * @ORM\ManyToOne(targetEntity="Gouzzy\GamesCollectionBundle\Entity\Editor")
-    * @ORM\JoinColumn(nullable=false)
-    */
-    private $editor;
-
-    /**
-    * @ORM\ManyToOne(targetEntity="Gouzzy\GamesCollectionBundle\Entity\Developer")
-    * @ORM\JoinColumn(nullable=false)
-    */
-    private $developer;
+    private $genericGame;
 
     /**
     * @ORM\ManyToOne(targetEntity="Gouzzy\GamesCollectionBundle\Entity\Localisation")
-    * @ORM\JoinColumn(nullable=false)
+    * @ORM\JoinColumn(nullable=true)
     */
     private $localisation;
 
     /**
      * @var string
      *
-     * @ORM\Column(name="additionalLocalisation", type="string", length=100)
+     * @ORM\Column(name="additionalLocalisation", type="string", length=100, nullable=true)
      */
     private $additionalLocalisation;
     
@@ -75,65 +57,58 @@ class Game
     /**
      * @var integer
      *
-     * @ORM\Column(name="generalCondition", type="integer")
+     * @ORM\Column(name="generalCondition", type="integer", nullable=true)
      */
     private $generalCondition;
 
     /**
      * @var boolean
      *
-     * @ORM\Column(name="box", type="boolean")
+     * @ORM\Column(name="box", type="boolean", nullable=true)
      */
     private $box;
 
     /**
      * @var integer
      *
-     * @ORM\Column(name="boxCondition", type="integer")
+     * @ORM\Column(name="boxCondition", type="integer", nullable=true)
      */
     private $boxCondition;
 
     /**
      * @var boolean
      *
-     * @ORM\Column(name="notice", type="boolean")
+     * @ORM\Column(name="notice", type="boolean", nullable=true)
      */
     private $notice;
 
     /**
      * @var integer
      *
-     * @ORM\Column(name="noticeCondition", type="integer")
+     * @ORM\Column(name="noticeCondition", type="integer", nullable=true)
      */
     private $noticeCondition;
 
     /**
      * @var boolean
      *
-     * @ORM\Column(name="complete", type="boolean")
+     * @ORM\Column(name="complete", type="boolean", nullable=true)
      */
     private $complete;
 
     /**
      * @var string
      *
-     * @ORM\Column(name="additionalInformations", type="text")
+     * @ORM\Column(name="additionalInformations", type="text", nullable=true)
      */
     private $additionalInformations;
 
     /**
      * @var float
      *
-     * @ORM\Column(name="cotation", type="float")
+     * @ORM\Column(name="cotation", type="float", nullable=true)
      */
     private $cotation;
-
-    /**
-     * @var string
-     *
-     * @ORM\Column(name="wikiLink", type="string", length=255)
-     */
-    private $wikiLink;
 
     /**
      * @var boolean
@@ -143,9 +118,10 @@ class Game
     private $online;
 
     /**
-    * @ORM\ManyToOne(targetEntity="Gouzzy\GamesCollectionBundle\Entity\Picture")
-    * @ORM\JoinColumn(nullable=false)
-    */
+     * @var string
+     *
+     * @ORM\Column(name="masterPicture", type="string", length=100)
+     */
     private $masterPicture;
 
     /**
@@ -412,29 +388,6 @@ class Game
     }
 
     /**
-     * Set wikiLink
-     *
-     * @param string $wikiLink
-     * @return Game
-     */
-    public function setWikiLink($wikiLink)
-    {
-        $this->wikiLink = $wikiLink;
-
-        return $this;
-    }
-
-    /**
-     * Get wikiLink
-     *
-     * @return string 
-     */
-    public function getWikiLink()
-    {
-        return $this->wikiLink;
-    }
-
-    /**
      * Set online
      *
      * @param boolean $online
@@ -455,98 +408,6 @@ class Game
     public function getOnline()
     {
         return $this->online;
-    }
-
-    /**
-     * Set genre
-     *
-     * @param \Gouzzy\GamesCollectionBundle\Entity\Genre $genre
-     * @return Game
-     */
-    public function setGenre(\Gouzzy\GamesCollectionBundle\Entity\Genre $genre)
-    {
-        $this->genre = $genre;
-
-        return $this;
-    }
-
-    /**
-     * Get genre
-     *
-     * @return \Gouzzy\GamesCollectionBundle\Entity\Genre 
-     */
-    public function getGenre()
-    {
-        return $this->genre;
-    }
-
-    /**
-     * Set console
-     *
-     * @param \Gouzzy\GamesCollectionBundle\Entity\Console $console
-     * @return Game
-     */
-    public function setConsole(\Gouzzy\GamesCollectionBundle\Entity\Console $console)
-    {
-        $this->console = $console;
-
-        return $this;
-    }
-
-    /**
-     * Get console
-     *
-     * @return \Gouzzy\GamesCollectionBundle\Entity\Console 
-     */
-    public function getConsole()
-    {
-        return $this->console;
-    }
-
-    /**
-     * Set editor
-     *
-     * @param \Gouzzy\GamesCollectionBundle\Entity\Editor $editor
-     * @return Game
-     */
-    public function setEditor(\Gouzzy\GamesCollectionBundle\Entity\Editor $editor)
-    {
-        $this->editor = $editor;
-
-        return $this;
-    }
-
-    /**
-     * Get editor
-     *
-     * @return \Gouzzy\GamesCollectionBundle\Entity\Editor 
-     */
-    public function getEditor()
-    {
-        return $this->editor;
-    }
-
-    /**
-     * Set developer
-     *
-     * @param \Gouzzy\GamesCollectionBundle\Entity\Developer $developer
-     * @return Game
-     */
-    public function setDeveloper(\Gouzzy\GamesCollectionBundle\Entity\Developer $developer)
-    {
-        $this->developer = $developer;
-
-        return $this;
-    }
-
-    /**
-     * Get developer
-     *
-     * @return \Gouzzy\GamesCollectionBundle\Entity\Developer 
-     */
-    public function getDeveloper()
-    {
-        return $this->developer;
     }
 
     /**
@@ -573,12 +434,35 @@ class Game
     }
 
     /**
-     * Set masterPicture
+     * Set genericGame
      *
-     * @param \Gouzzy\GamesCollectionBundle\Entity\Picture $masterPicture
+     * @param \Gouzzy\GamesCollectionBundle\Entity\GenericGame $genericGame
      * @return Game
      */
-    public function setMasterPicture(\Gouzzy\GamesCollectionBundle\Entity\Picture $masterPicture = null)
+    public function setGenericGame(\Gouzzy\GamesCollectionBundle\Entity\GenericGame $genericGame)
+    {
+        $this->genericGame = $genericGame;
+
+        return $this;
+    }
+
+    /**
+     * Get genericGame
+     *
+     * @return \Gouzzy\GamesCollectionBundle\Entity\GenericGame 
+     */
+    public function getGenericGame()
+    {
+        return $this->genericGame;
+    }
+
+    /**
+     * Set masterPicture
+     *
+     * @param string $masterPicture
+     * @return Game
+     */
+    public function setMasterPicture($masterPicture)
     {
         $this->masterPicture = $masterPicture;
 
@@ -588,7 +472,7 @@ class Game
     /**
      * Get masterPicture
      *
-     * @return \Gouzzy\GamesCollectionBundle\Entity\Picture 
+     * @return string 
      */
     public function getMasterPicture()
     {

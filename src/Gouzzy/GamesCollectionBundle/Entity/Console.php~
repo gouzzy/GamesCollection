@@ -22,18 +22,18 @@ class Console
     private $id;
     
     /**
-    * @ORM\ManyToOne(targetEntity="Gouzzy\GamesCollectionBundle\Entity\Brand")
-    * @ORM\JoinColumn(nullable=false)
-    */
-    private $brand;
-    
-    /**
      * @var string
      *
      * @ORM\Column(name="name", type="string", length=200)
      */
     private $name;
 
+    /**
+    * @ORM\ManyToOne(targetEntity="Gouzzy\GamesCollectionBundle\Entity\GenericConsole")
+    * @ORM\JoinColumn(nullable=false)
+    */
+    private $genericConsole;
+    
     /**
      * @var string
      *
@@ -130,13 +130,6 @@ class Console
      * @ORM\Column(name="cotation", type="float")
      */
     private $cotation;
-
-    /**
-     * @var string
-     *
-     * @ORM\Column(name="wikiLink", type="string", length=255)
-     */
-    private $wikiLink;
     
     /**
      * @var boolean
@@ -146,9 +139,10 @@ class Console
     private $online;
 
     /**
-    * @ORM\ManyToOne(targetEntity="Gouzzy\GamesCollectionBundle\Entity\Picture")
-    * @ORM\JoinColumn(nullable=false)
-    */
+     * @var string
+     *
+     * @ORM\Column(name="masterPicture", type="string", length=100)
+     */
     private $masterPicture;
 
     /**
@@ -484,29 +478,6 @@ class Console
     }
 
     /**
-     * Set wikiLink
-     *
-     * @param string $wikiLink
-     * @return Console
-     */
-    public function setWikiLink($wikiLink)
-    {
-        $this->wikiLink = $wikiLink;
-
-        return $this;
-    }
-
-    /**
-     * Get wikiLink
-     *
-     * @return string 
-     */
-    public function getWikiLink()
-    {
-        return $this->wikiLink;
-    }
-
-    /**
      * Set online
      *
      * @param boolean $online
@@ -527,29 +498,6 @@ class Console
     public function getOnline()
     {
         return $this->online;
-    }
-
-    /**
-     * Set brand
-     *
-     * @param \Gouzzy\GamesCollectionBundle\Entity\Brand $brand
-     * @return Console
-     */
-    public function setBrand(\Gouzzy\GamesCollectionBundle\Entity\Brand $brand)
-    {
-        $this->brand = $brand;
-
-        return $this;
-    }
-
-    /**
-     * Get brand
-     *
-     * @return \Gouzzy\GamesCollectionBundle\Entity\Brand 
-     */
-    public function getBrand()
-    {
-        return $this->brand;
     }
 
     /**
@@ -576,12 +524,35 @@ class Console
     }
 
     /**
-     * Set masterPicture
+     * Set genericConsole
      *
-     * @param \Gouzzy\GamesCollectionBundle\Entity\Picture $masterPicture
+     * @param \Gouzzy\GamesCollectionBundle\Entity\GenericConsole $genericConsole
      * @return Console
      */
-    public function setMasterPicture(\Gouzzy\GamesCollectionBundle\Entity\Picture $masterPicture = null)
+    public function setGenericConsole(\Gouzzy\GamesCollectionBundle\Entity\GenericConsole $genericConsole)
+    {
+        $this->genericConsole = $genericConsole;
+
+        return $this;
+    }
+
+    /**
+     * Get genericConsole
+     *
+     * @return \Gouzzy\GamesCollectionBundle\Entity\GenericConsole 
+     */
+    public function getGenericConsole()
+    {
+        return $this->genericConsole;
+    }
+
+    /**
+     * Set masterPicture
+     *
+     * @param string $masterPicture
+     * @return Console
+     */
+    public function setMasterPicture($masterPicture)
     {
         $this->masterPicture = $masterPicture;
 
@@ -591,7 +562,7 @@ class Console
     /**
      * Get masterPicture
      *
-     * @return \Gouzzy\GamesCollectionBundle\Entity\Picture 
+     * @return string 
      */
     public function getMasterPicture()
     {

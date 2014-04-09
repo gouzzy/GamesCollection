@@ -1,0 +1,16 @@
+/* display games */
+div.game {
+    width: 150px;
+    height:250px;
+    margin:15px;
+    background-color: #F5F5F5;
+    border: 1px solid #EEE;
+    overflow: hidden;
+    float: left;
+}
+
+div.game img {
+    border: 1px solid black;
+    margin: 4px auto 4px auto;
+    display: block;
+}

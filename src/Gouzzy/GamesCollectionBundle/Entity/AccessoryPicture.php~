@@ -24,9 +24,9 @@ class AccessoryPicture
     /**
      * @var string
      *
-     * @ORM\Column(name="path", type="string", length=255)
+     * @ORM\Column(name="url", type="string", length=255)
      */
-    private $path;
+    private $url;
 
     /**
      * @var string
@@ -64,9 +64,9 @@ class AccessoryPicture
      * @param string $path
      * @return AccessoryPicture
      */
-    public function setPath($path)
+    public function setUrl($url)
     {
-        $this->path = $path;
+        $this->url = $url;
 
         return $this;
     }
@@ -76,9 +76,9 @@ class AccessoryPicture
      *
      * @return string 
      */
-    public function getPath()
+    public function getUrl()
     {
-        return $this->path;
+        return $this->url;
     }
 
     /**

@@ -14,7 +14,7 @@ class ConsoleController extends Controller
         $consoles = $this->getDoctrine()
                          ->getManager()
                          ->getRepository('GouzzyGamesCollectionBundle:Console')
-                         //->findBy(array(), array('brand.name' => 'ASC'));
+                         //->findAll(array(), array('console.generiConsole.brand.name' => 'ASC'));
                          ->findAllOrderByBrand();
         
         return $this->render('GouzzyGamesCollectionBundle:GamesCollection:consoleList.html.twig', array(
@@ -22,12 +22,12 @@ class ConsoleController extends Controller
         ));
     }
     
-    public function consoleListByBrandAction($brandId)
+    public function consoleListByGenericConsoleAction($genericConsoleId)
     {
         $consoles = $this->getDoctrine()
                          ->getManager()
                          ->getRepository('GouzzyGamesCollectionBundle:Console')
-                         ->findByBrand($brandId, array('name' => 'ASC'));
+                         ->findByGenericConsole($genericConsoleId, array('name' => 'ASC'));
         
         return $this->render('GouzzyGamesCollectionBundle:GamesCollection:consoleList.html.twig', array(
           'consoles' => $consoles

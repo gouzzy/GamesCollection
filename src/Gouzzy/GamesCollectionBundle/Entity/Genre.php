@@ -33,7 +33,12 @@ class Genre
     * @ORM\JoinColumn(nullable=false)
     */
     private $masterGenre;
-
+    
+    /**
+    * @ORM\ManyToMany(targetEntity="Gouzzy\GamesCollectionBundle\Entity\GenericGame", mappedBy="genreList")
+    */
+    private $gameList;
+    
     /**
      * Get id
      *
@@ -88,5 +93,45 @@ class Genre
     public function getMasterGenre()
     {
         return $this->masterGenre;
+    }
+    /**
+     * Constructor
+     */
+    public function __construct()
+    {
+        $this->gameList = new \Doctrine\Common\Collections\ArrayCollection();
+    }
+
+    /**
+     * Add gameList
+     *
+     * @param \Gouzzy\GamesCollectionBundle\Entity\GenericGame $gameList
+     * @return Genre
+     */
+    public function addGameList(\Gouzzy\GamesCollectionBundle\Entity\GenericGame $gameList)
+    {
+        $this->gameList[] = $gameList;
+
+        return $this;
+    }
+
+    /**
+     * Remove gameList
+     *
+     * @param \Gouzzy\GamesCollectionBundle\Entity\GenericGame $gameList
+     */
+    public function removeGameList(\Gouzzy\GamesCollectionBundle\Entity\GenericGame $gameList)
+    {
+        $this->gameList->removeElement($gameList);
+    }
+
+    /**
+     * Get gameList
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getGameList()
+    {
+        return $this->gameList;
     }
 }

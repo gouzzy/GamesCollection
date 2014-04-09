@@ -36,18 +36,10 @@ class Brand
     private $wikiLink;
 
     /**
-     * @var string
-     *
-     * @ORM\Column(name="masterPicture", type="string", length=100)
+     * @ORM\OneToOne(targetEntity="Gouzzy\GamesCollectionBundle\Entity\Image", cascade={"persist", "remove"})
      */
     private $masterPicture;
-    
-    public function __construct()
-    {
-        $this->wikiLink      = '';
-        $this->masterPicture = 'noImage.png';
-    }
-    
+
     /**
      * Get id
      *
@@ -107,10 +99,10 @@ class Brand
     /**
      * Set masterPicture
      *
-     * @param string $masterPicture
+     * @param \Gouzzy\GamesCollectionBundle\Entity\Image $masterPicture
      * @return Brand
      */
-    public function setMasterPicture($masterPicture)
+    public function setMasterPicture(\Gouzzy\GamesCollectionBundle\Entity\Image $masterPicture = null)
     {
         $this->masterPicture = $masterPicture;
 
@@ -120,7 +112,7 @@ class Brand
     /**
      * Get masterPicture
      *
-     * @return string 
+     * @return \Gouzzy\GamesCollectionBundle\Entity\Image 
      */
     public function getMasterPicture()
     {

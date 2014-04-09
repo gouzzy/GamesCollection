@@ -1,0 +1,20 @@
+{% extends "GouzzyGamesCollectionBundle::layout.html.twig" %}
+{% block title %}{{ parent() }} - liste des consoles{% endblock %}
+{% block body %}
+    <div class="container">
+        {% set brand = 'noBrand' %}
+        {% for console in consoles %}
+            <div class="game">
+                {% if console.getBrand().getName() != brand %}
+                    {% set brand = console.getBrand().getName() %}
+                    <div class="brand-title">{{ brand }}</div>
+                {% endif %}
+                <div class="game-title">
+                    <a href="{{ path('gouzzy_games_collection_generic_game_list_with_consoleId', {'consoleId': console.id}) }}"><img src="{{ asset('img/genericConsoles/' ~ console.getMasterPicture()) }}" width="100" height="100" /> {{ console.getName() }}</span></a> (<span><a href="{{ console.getWikiLink() }}" target="_blank">{{ console.getWikiLink() }}</a>)
+                </div>
+            </div>
+        {% else %}
+            <p>Pas de consoles</p>
+        {% endfor %}
+    </div>
+{% endblock %}

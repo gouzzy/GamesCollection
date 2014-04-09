@@ -13,7 +13,9 @@ class BrandType extends AbstractType
     $builder
       ->add('name',          'text')
       ->add('wikiLink',      'text', array('required' => false))
-      //->add('masterPicture',  new ImageType(), array('required' => false))
+      //->add('file',          'file', array('required'    => false))
+      ->add('masterPicture',  new ImageType(), array('required' => false))
+      //->add("pictures",     "collection",    array("type"=> $picture())
     ;
   }
   public function setDefaultOptions(OptionsResolverInterface $resolver)

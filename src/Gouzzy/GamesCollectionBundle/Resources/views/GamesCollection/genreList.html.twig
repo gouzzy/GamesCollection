@@ -3,7 +3,7 @@
 {% block body %}
     <ul>
     {% for genre in genres %}
-        <li><a href="{{ path('gouzzy_games_collection_game_list_with_genreId', {'genreId': genre.id}) }}" >{{ genre.getName() }}</a></span> (<span>{{ genre.getMasterGenre.getName() }})</li>
+        <li><a href="{{ path('gouzzy_games_collection_generic_game_list_with_genreId', {'genreId': genre.id}) }}" >{{ genre.getName() }}</a></span> (<span>{{ genre.getMasterGenre.getName() }})</li>
     {% else %}
         <p>Pas de genres</p>
     {% endfor %}

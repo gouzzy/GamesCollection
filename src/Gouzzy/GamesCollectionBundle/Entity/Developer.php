@@ -29,6 +29,11 @@ class Developer
     private $name;
 
     /**
+    * @ORM\ManyToMany(targetEntity="Gouzzy\GamesCollectionBundle\Entity\GenericGame", mappedBy="developerList")
+    */
+    private $gameList;
+    
+    /**
      * @var string
      *
      * @ORM\Column(name="wikiLink", type="string", length=255)
@@ -120,5 +125,45 @@ class Developer
     public function getMasterPicture()
     {
         return $this->masterPicture;
+    }
+    /**
+     * Constructor
+     */
+    public function __construct()
+    {
+        $this->gameList = new \Doctrine\Common\Collections\ArrayCollection();
+    }
+
+    /**
+     * Add gameList
+     *
+     * @param \Gouzzy\GamesCollectionBundle\Entity\GenericGame $gameList
+     * @return Developer
+     */
+    public function addGameList(\Gouzzy\GamesCollectionBundle\Entity\GenericGame $gameList)
+    {
+        $this->gameList[] = $gameList;
+
+        return $this;
+    }
+
+    /**
+     * Remove gameList
+     *
+     * @param \Gouzzy\GamesCollectionBundle\Entity\GenericGame $gameList
+     */
+    public function removeGameList(\Gouzzy\GamesCollectionBundle\Entity\GenericGame $gameList)
+    {
+        $this->gameList->removeElement($gameList);
+    }
+
+    /**
+     * Get gameList
+     *
+     * @return \Doctrine\Common\Collections\Collection 
+     */
+    public function getGameList()
+    {
+        return $this->gameList;
     }
 }

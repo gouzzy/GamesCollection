@@ -1,0 +1,413 @@
+id;genre;editor;developper;
+1;1;1;1;Barbarian 2 
+2;11;2;7;Batman : The Movie 
+3;18;2;7;Burning rubber 
+4;38;3;1;Fire & Forget II 
+5;1;62;1;Action force 
+6;1;4;1;Air-Sea Battle 
+7;1;4;1;Battlezone
+8;1;62;1;Big Bird's Egg Catch 
+9;1;5;1;Carnival 
+10;1;4;1;Centipede 
+11;1;62;1;Combat 
+12;1;62;1;Desert Falcon 
+13;1;6;1;Dig Dug 
+14;1;7;1;Donkey Kong 
+15;1;62;1;Fire Fighter 
+16;1;4;1;Haunted House 
+17;1;62;1;Indy 500 
+18;1;8;1;Joust 
+19;1;62;1;Jungle Hunt 
+20;1;62;1;Kangaroo 
+21;1;62;1;Les Schtroumpfs 
+22;1;62;1;Meteor defense 
+23;1;4;1;Missile Command 
+24;1;62;1;Outlaw 
+25;1;6;1;Pac man 
+26;1;62;1;Phoenix 
+27;1;62;1;Realsports Soccer 
+28;1;62;1;Robin Hood 
+29;1;62;1;Sir Lancelot 
+30;1;62;1;Skate Boardin': A Radical Adventure 
+31;1;62;1;Sky alien 
+32;1;62;1;Sky Diver 
+33;1;9;1;Space Invaders 
+34;1;62;1;Space Shuttle: A Journey Into Space 
+35;1;62;1;Star strike 
+36;1;62;1;Stargate 
+37;1;62;1;Street Racer 
+38;1;62;1;Video Olympics 
+39;1;62;1;Video Pinball 
+40;1;5;1;Zaxxon 
+41;1;11;1;Ikari Warriors 
+42;1;62;1;Jinks 
+43;1;62;1;Mean 18 Ultimate Golf 
+44;1;62;1;Title Match Pro Wrestling 
+45;1;12;1;dragon the bruce lee story
+46;1;4;1;bubsy: Fractured Furry Tails
+47;1;4;1;iron soldier
+48;1;4;1;white men can't jump
+49;1;12;1;cannon fodder
+52;1;4;1;cybermorph
+55;1;2;1;Theme park
+57;1;4;1;Doom
+58;1;2;1;Syndicate
+59;1;4;1;Alien versus Predator
+60;1;4;1;Wolfenstein 3D
+61;1;4;1;Atari Karts
+62;1;13;1;Rayman
+63;1;4;1;Tempest 2000
+64;1;4;1;Pitfall: The Mayan Adventure
+65;1;4;1;Val D'Isere Skiing and Snowboarding
+66;1;4;1;Trevor McFur in the Crescent Galaxy
+67;1;4;1;FlipOut
+68;1;4;1;Ruiner Pinball
+69;1;4;1;Flashback
+70;1;4;1;Zool2
+71;1;4;2;Kasumi Ninja
+72;1;14;3;Raiden
+73;1;15;1;Fever Pitch Soccer
+74;1;16;4;Brutal Sports Football
+75;1;17;5;Pinball Fantasies
+76;1;8;1;Troy Aikman NFL Football
+77;1;62;1;Hover Strike
+78;1;4;6;White Men Can't Jump
+79;1;62;1;Club Drive
+80;1;62;1;SuperCross 3D
+81;1;4;1;Hover Strike : Unconquered Lands
+82;1;4;1;Myst Demo
+83;1;4;1;Myst
+84;1;4;1;Highlander : The Last of the MacLeods
+85;1;4;1;Blue Lightning
+86;1;18;1;Dragon's Lair 
+87;1;18;1;Space Ace 
+88;1;4;1;Vid Grid 
+89;1;4;1;Battlemorph
+90;1;4;1;Baldies
+91;1;4;1;Batman Returns
+92;1;62;1;Armor Battle 
+93;1;62;1;Auto Racing 
+94;1;62;1;Baseball 
+95;1;62;1;Boxing 
+96;1;62;1;Checkers 
+97;1;62;1;Football 
+98;1;62;1;Frog Bog 
+99;1;62;1;Lock 'N Chase 
+100;1;62;1;Snafu 
+101;1;62;1;Soccer 
+102;1;62;1;Space Battle 
+103;1;62;1;Star Strike 
+104;1;62;1;Sub Hunt 
+105;1;62;1;Tennis 
+106;1;62;1;Triple Action 
+107;1;5;1;Zaxxon 
+108;1;19;1;Burnout 3 takedown 
+109;1;19;1;Fifa 2004 
+110;1;20;1;Halo : Combat Evolved
+111;1;20;1;Midtown madness 3 
+112;1;19;1;Need for speed underground 
+113;1;19;1;Need for speed underground 2
+114;1;21;1;True Crime: Streets of LA 
+115;1;20;1;Lost Odyssey 
+116;1;22;1;The Last Remnant 
+117;1;23;1;Blazing Lazers
+118;1;7;1;Advance wars dark conflict 
+119;1;7;1;Advance wars dual strike
+120;1;24;1;Age of empire II :  the age of king 
+121;1;25;1;Anno  1701
+122;1;22;1;Children of mana 
+123;1;22;1;Final Fantasy III 
+124;1;22;1;Final Fantasy IV 
+125;1;22;1;Final Fantasy XII revenant wings 
+126;1;22;1;Final Fantasy Crystal Chronicles Ring of Fates
+127;1;26;1;Les experts meurtres a las vegas 
+128;1;27;1;Phoenix wright ace attorney 
+129;1;28;1;Polarium 
+130;1;7;1;Programme d'entrainement cerebral du dr Kawashima quel âge a votre cerveau? 
+131;1;19;1;Theme park 
+132;1;29;1;Trauma center under the knife 
+133;1;30;1;Worms open warfare 
+134;1;62;1;Ghostbusters II 
+135;1;62;1;Star wars 
+136;1;7;1;Super mario land 2 
+137;1;31;1;Mystic Quest
+138;1;22;1;Final Fantasy VI 
+139;1;62;1;Need for speed
+140;1;7;1;Tetris DX 
+141;1;62;1;Rayman
+142;1;62;1;Beyblade: Super Tournament Battle
+143;1;4;1;Enter the matrix 
+144;1;62;1;F1 2002 
+145;1;22;1;Final Fantasy Crystal Chronicles
+146;1;7;1;Mario kart double dash + Mario sunshine
+147;1;7;1;Mario kart double dash 
+148;1;7;1;Mario power tennis 
+149;1;6;1;Tales of symphonia 
+150;1;32;1;Astérix 
+151;1;33;1;Castlevania 
+152;1;62;1;Chip 'n Dale: Rescue Rangers 
+153;1;27;1;Darkwing Duck 
+154;1;9;1;Double Dragon 
+155;1;34;1;Double Dragon 2
+156;1;34;1;Double Dragon 3
+157;1;7;1;Dr. Mario 
+158;1;35;1;Dragn Ball : Le Secret du Dragon
+159;1;7;1;Duck Hunt 
+160;1;7;1;Excitebike 
+161;1;62;1;Ghostbusters II 
+162;1;7;1;Golf 
+163;1;36;1;Gremlins 2: The New Batch 
+164;1;7;1;Hogan's Alley 
+165;1;62;1;Isolated Warrior 
+166;1;35;1;Les chevaliers du zodiaque
+167;1;4;1;Paperboy
+168;1;33;1;Parodius 
+169;1;62;1;PinBot 
+170;1;33;1;Probotector 
+171;1;62;1;Retour vers le futur 2 
+172;1;62;1;Retour vers le futur 3 
+173;1;2;1;RoboCop 2 
+174;1;33;1;Rush'n attack 
+175;1;7;1;Soccer 
+176;1;37;1;Star Wars
+177;1;7;1;Stealth
+178;1;7;1;Super Mario Bros 
+179;1;7;1;Super mario bross 2 
+180;1;7;1;Super mario bross 3
+182;1;33;1;Teenage mutant hero turtles
+183;1;62;1;Tetris 
+184;1;62;1;Tiger Heli 
+185;1;62;1;To The Earth 
+186;1;62;1;Top Gun 
+187;1;62;1;Turbo Racing 
+188;1;35;1;Saint Seiya
+189;1;35;1;Dragonball3
+190;1;39;1;Juliet je t'aime
+191;1;40;1;Dragonquest
+192;1;40;1;Dragonquest II
+193;1;40;1;Dragonquest III
+194;1;40;1;Dragonquest IV
+195;1;31;1;Final fantasy
+196;1;31;1;Final fantasy II
+197;1;31;1;Final fantasy III
+198;1;31;1;Final fantasy I+II
+199;1;40;1;Dragonquest V
+200;1;40;1;Dragonquest VI
+201;1;31;1;Final Fantasy IV 
+202;1;31;1;Final fantasy V
+203;1;31;1;Final fantasy V
+204;1;31;1;Final Fantasy VI 
+205;1;31;1;Final Fantasy VI 
+206;1;35;1;DragonballZ 2
+207;1;7;1;Super Metroid
+208;1;7;1;Donkey Kong Country 
+209;1;15;1;Flashback : The Quest for Identity
+210;1;32;1;Les Schtroumpfs 
+211;1;41;1;Mortal Combat
+212;1;12;1;Pinocchio 
+213;1;7;1;Starwing/Star Fox
+214;1;7;1;Super Mario All*Stars
+215;1;7;1;Super Mario Kart
+216;1;7;1;Super Mario World
+217;1;7;1;Super R-type
+218;1;7;1;Super Star Wars
+219;1;19;1;Syndicate
+220;1;10;1;Ultimate mortal kombat 3
+221;1;7;1;Mario's tennis 
+222;1;23;1;Panic bomber 
+223;1;23;1;Vertical force 
+224;1;42;1;Vtetris 
+225;1;6;1;Dragon Ball revenge of king piccolo 
+226;1;19;1;EA sport active 
+227;1;22;1;Final Fantasy Crystal Chronicles Echoes of Time
+228;1;13;1;Just dance 
+229;1;7;1;Mario Kart Wii 
+230;1;7;1;New Super Mario Bros. Wii 
+231;1;19;1;Skate it 
+232;1;29;1;Trauma Center : New Blood 
+233;1;7;1;Wii fit 
+234;1;7;1;Wii play 
+235;1;7;1;Wii sports 
+236;1;5;1;Space Harrier
+237;1;5;1;Motocross Championship
+238;1;5;1;Virtua Fighters
+239;1;5;1;Virtua Racing
+240;1;43;1;NHL 
+241;1;5;1;Phantasy star online 
+242;1;21;1;Quake III arena 
+243;1;5;1;Sonic adventure 
+244;1;5;1;Sonic adventure 2 the trial 
+245;1;6;1;Soul calibur 
+246;1;62;1;SWWS 2000 
+247;1;62;1;Virtua Fighter 3tb
+248;1;5;1;Virtua tennis 
+249;1;62;1;Ax battler a legend of golden axe 
+250;1;44;1;Hook 
+251;1;5;1;Sonic the Hedgehog 
+252;1;62;1;Virtua Fighter Kids
+253;1;5;1;Action fighter 
+254;1;5;1;Alex kidd in shinobi world 
+255;1;5;1;Astérix 
+256;1;5;1;Bomber raid 
+257;1;62;1;Casino games 
+258;1;5;1;Castle of illusion starring mickey mouse 
+259;1;5;1;Golden axe 
+260;1;4;1;Klax 
+261;1;62;1;Kung fu kid 
+262;1;5;1;Moonwalker
+263;1;4;1;Paperboy 
+264;1;5;1;Psycho fox 
+265;1;4;1;Rampart 
+266;1;62;1;RC grand prix 
+267;1;5;1;Shinobi
+268;1;9;1;Super space invaders 
+270;1;62;1;The cyber shinobi 
+271;1;5;1;The ninja 
+272;1;5;1;Thunder blade 
+273;1;45;1;Ultima IV 
+274;1;5;1;Ecco the dolphin
+275;1;12;1;Dune
+276;1;46;1;Sol-Deace
+277;1;12;1;Aladdin 
+278;1;5;1;Castle of illusion starring mickey mouse 
+279;1;5;1;Comix Zone 
+280;1;12;1;Cool spot 
+281;1;5;1;David robinson's supreme court 
+282;1;5;1;Disney tales spin 
+283;1;47;1;Donald in maui mallard 
+284;1;5;1;Ecco the Dolphin 
+285;1;5;1;Evander holyfield's boxing 
+286;1;11;1;Fatal Fury 
+287;1;11;1;Fatal Fury 2 
+288;1;19;1;fifa 1995 
+289;1;19;1;Fifa 1996 
+290;1;19;1;Fifa 1997 
+291;1;5;1;Le roi lion 
+292;1;62;1;Micromachines 
+293;1;62;1;Monaco GP 2 
+294;1;62;1;Moonwalker
+295;1;41;1;Mortal Kombat 
+296;1;41;1;Mortal Kombat 2 
+297;1;5;1;Olympic gold 
+298;1;5;1;Outrun
+299;1;21;1;Pitfall: The Mayan Adventure 
+300;1;5;1;Quackshot 
+301;1;33;1;Rocket knight adventures 
+302;1;5;1;Sonic 3D Flickies' Island
+303;1;5;1;Sonic compilation (1,2 et Dr. Robotnik's Mean Bean Machine) 
+304;1;5;1;Sonic spinball 
+305;1;5;1;Sonic the Hedgehog 
+306;1;5;1;Sonic the Hedgehog 2 
+307;1;5;1;Sonic the Hedgehog 3 
+308;1;5;1;Streets of rage 
+309;1;5;1;Super Hang-on
+310;1;5;1;Tazmania 
+311;1;33;1;Teenage Mutant Hero Turtles: The HyperStone Heist 
+312;1;48;1;The Incredible Crash Dummies 
+313;1;62;1;The lucky dime carer donald duck 
+314;1;15;1;Winter Olympics
+315;1;62;1;Wonder boy III monster land 
+316;1;5;1;World of illusion starring disney's mickey mouse & donald duck 
+317;1;49;1;Command & Conquer 
+318;1;62;1;Evangelion
+319;1;50;1;Exhumed 
+320;1;13;1;Rayman 
+321;1;5;1;Sonic 3D 
+322;1;51;1;Tomb raider 
+323;1;62;1;Tunnel B1 
+324;1;5;1;Virtua Fighter 
+325;1;5;1;Virtua Fighter 2 
+326;1;5;1;Virtua Fighter Kids 
+327;1;5;1;Virtua Racing 
+328;1;21;1;Civilization II 
+329;1;49;1;Command & conquer alert rouge mission tesla 
+330;1;61;1;Diablo 
+331;1;53;1;Duke nulem land of the babes 
+332;1;12;1;Dune 2000 
+333;1;62;1;Dynasty warriors 
+334;1;22;1;Final Fantasy origins
+335;1;31;1;Final Fantasy Anthology
+336;1;31;1;Final Fantasy premium package
+337;1;31;1;Final Fantasy VI
+340;1;31;1;Final Fantasy VII 
+350;1;31;1;Final Fantasy VIII
+353;1;31;1;Final Fantasy IX platinium
+354;1;44;1;Grand tourismo 
+355;1;19;1;Medal of honor 
+356;1;33;1;Metal gear solid 
+357;1;19;1;NBA live 98 
+358;1;44;1;Porsche challenge 
+359;1;13;1;Rayman
+360;1;54;1;Syphon filter 
+361;1;44;1;Syphon filter 2 
+362;1;6;1;Tekken 3 
+363;1;44;1;Wild arms 
+364;1;62;1;Bonanza bros 
+365;1;62;1;Buzz le mega quizz 
+366;1;62;1;Capcom VS snk 2 
+367;1;32;1;Dragon ball Z budokaï 
+368;1;4;1;Dragon ball Z budokaï 3 
+369;1;4;1;Dragon ball Z budokaï tenkaïchi 
+370;1;4;1;Dragon ball Z budokaï tenkaïchi 2 
+371;1;22;1;Dragon quest VIII 
+372;1;44;1;Eye toy play 2 
+373;1;44;1;Eye toy play 3 
+374;1;22;1;Dirge of Cerberus: Final Fantasy VII
+375;1;31;1;Final Fantasy X
+380;1;31;1;Final Fantasy X-2
+382;1;22;1;Final Fantasy XII
+385;1;44;1;Grand tourismo 3 
+386;1;44;1;Grand tourismo 4 
+387;1;55;1;Guitar hero 
+388;1;55;1;Guitar hero II 
+389;1;55;1;Guitar hero rock the 80's 
+390;1;62;1;Kinetic 
+391;1;51;1;Lego star wars 
+392;1;51;1;Lego star wars II : La Trilogie originale
+393;1;33;1;Metal gear solid 2 : Sons of Liberty
+394;1;33;1;Metal gear solid 3 : Snake Eater
+395;1;62;1;Saint Seiya, Les Chevaliers du Zodiaque : Hadès 
+396;1;62;1;Saint Seiya, Les Chevaliers du Zodiaque : Le Sanctuaire 
+397;1;6;1;Tekken 4 
+398;1;13;1;Assasin's creed 
+399;1;13;1;Assasin's creed II 
+400;1;13;1;Assasin's creed Brotherhood 
+401;1;13;1;Assasin's creed Revelations 
+402;1;35;1;Dragon ball Z burst limit 
+403;1;35;1;Dragon ball Z raging blast 
+404;1;19;1;EA sport active 2 
+405;1;57;1;Eternal sonata 
+406;1;62;1;F1 championship edition 
+407;1;22;1;Final Fantasy XIII 
+408;1;44;1;Grand tourismo 5 
+409;1;55;1;Guitar hero III legends of rock 
+410;1;56;1;Guitar hero world tour 
+411;1;62;1;Guitar hero Band Hero 
+412;1;21;1;Guitar hero 5 
+413;1;62;1;Guitar hero Wariors of rock
+414;1;44;1;Heavenly sword 
+415;1;37;1;Lego indiana jones la trilogie originale 
+416;1;19;1;Mirror's age 
+417;1;43;1;NBA 2K8 
+418;1;19;1;Need for speed carbon 
+419;1;19;1;Need For Speed Undercover 
+420;1;58;1;Pirates des caraibes : jusqu'au bout du monde 
+421;1;44;1;Ratchet & clank operation destruction 
+422;1;62;1;Sega Megadrive Ultimate Collection
+423;1;19;1;Skate 
+424;1;62;1;Smack down VS raw 2008 
+425;1;22;1;Star Ocean : The Last Hope 
+426;1;44;1;The eye of the judgment 
+427;1;10;1;Unrealtournament III 
+428;1;5;1;Virtua Fighters 5 
+429;1;57;1;Every Extend Extra 
+430;1;22;1;Final Fantasy 
+431;1;22;1;Final Fantasy II 
+432;1;22;1;Final Fantasy VII crisis core 
+433;1;59;1;Grand theft auto vice city stories 
+434;1;62;1;Gunpey 
+435;1;19;1;Les sims 2 : animaux & cie 
+436;1;33;1;Metal gear solid portable ops plus 
+437;1;60;1;Cartouche n°1 : Casse brique
+438;1;60;1;Cartouche n°4 : Flipper
+439;1;60;1;Cartouche n°6 : Bataille navale

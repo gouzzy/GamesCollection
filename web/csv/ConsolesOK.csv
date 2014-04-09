@@ -1,0 +1,49 @@
+1,1,Game Gear,1,4,,1,7,0,0,0,0,0,0,,0,1,1,no-image.png
+2,1,Game Gear,1,4,,1,7,0,0,0,0,0,0,,0,1,1,no-image.png
+3,1,Master System,1,3,,1,8,1,3,1,6,1,1,Alex kid intégré,0,1,2,no-image.png
+4,1,Master System,2,3,,1,8,1,8,1,8,1,1,,0,1,3,no-image.png
+5,1,Megadrive,1,4,,1,8,1,6,1,7,2,1,,0,1,4,no-image.png
+6,1,Megadrive,2,4,,1,8,1,9,1,9,2,1,,0,1,5,no-image.png
+7,1,Megacd,2,4,,1,7,0,0,0,0,0,0,,0,1,6,no-image.png
+8,1,32x,1,4,,1,8,0,0,0,0,0,0,,0,1,7,no-image.png
+9,1,Saturn,1,5,,1,7,0,0,0,0,2,0,,0,1,8,no-image.png
+10,1,Saturn,1,5,,1,9,1,8,0,0,2,0,,0,1,8,no-image.png
+11,1,Dreamcast,1,6,,1,4,0,0,0,0,1,0,très jaunie,0,1,9,no-image.png
+12,1,Dreamcast,1,6,,1,9,1,9,1,9,1,1,,0,1,9,no-image.png
+13,1,Game Boy,1,4,,1,4,0,0,0,0,0,0,pixels morts,0,1,10,no-image.png
+14,1,Game Boy Color,1,5,,1,8,1,8,1,8,0,1,jaune,0,1,11,no-image.png
+15,1,Game Boy Advance,1,6,,1,5,0,0,0,0,0,0,violette,0,1,12,no-image.png
+16,1,NES,1,3,,1,9,1,9,1,9,1,1,,0,1,13,no-image.png
+17,1,NES,1,3,,1,4,0,0,0,0,1,0,,0,1,13,no-image.png
+18,1,NES,1,3,,0,5,0,0,0,0,1,0,,0,1,13,no-image.png
+19,1,Virtual Boy,1,4,,1,9,1,8,1,8,1,1,,0,1,14,no-image.png
+20,1,Super Nintendo,1,4,,1,6,0,0,0,0,1,0,jaunie,0,1,15,no-image.png
+21,1,Super Nintendo,1,4,,1,9,1,9,1,9,1,1,,0,1,15,no-image.png
+22,1,Nintendo64,1,5,,1,9,1,9,1,9,2,1,Version violette,0,1,16,no-image.png
+23,1,GameCube,1,6,,1,8,0,0,0,0,4,0,version noire,0,1,17,no-image.png
+24,1,GameCube,1,6,,1,8,1,9,1,9,4,1,version noire,0,1,17,no-image.png
+25,1,DS light,1,7,,1,9,1,9,1,9,0,1,version blanche,0,1,18,no-image.png
+26,1,PS1,1,5,,1,9,1,9,0,0,4,0,,0,1,19,no-image.png
+27,3,PS1,1,5,,1,7,0,0,0,0,4,0,,0,1,19,no-image.png
+28,3,PS2,1,6,,1,8,0,0,0,0,4,0,,0,1,20,no-image.png
+29,1,Pstwo,1,6,,1,8,1,9,1,9,4,1,version grise,0,1,21,no-image.png
+30,1,PS3,2,7,,1,10,1,10,1,10,3,1,Version 60Go,0,1,22,no-image.png
+31,1,PS3 slim,1,7,,1,10,1,10,1,10,3,1,Version 320Go,0,1,23,no-image.png
+32,1,PSP light,1,7,,1,9,1,9,1,9,0,1,édition spécial FF7 crisis core,0,1,24,no-image.png
+33,1,GX-4000,1,3,,1,9,1,9,1,9,1,1,,0,1,25,no-image.png
+34,1,2600,1,2,,1,8,1,7,1,7,2,1,version  bois,0,1,26,no-image.png
+35,1,7800,1,3,,1,8,1,8,1,9,1,1,,0,1,27,no-image.png
+36,1,Lynx,2,4,,1,9,1,9,1,9,0,1,,0,1,28,no-image.png
+37,1,Jaguar,1,5,UK,1,8,0,0,0,0,2,0,version RF,0,1,29,no-image.png
+38,1,Jaguar,1,5,,1,8,0,0,0,0,1,0,,0,1,29,no-image.png
+39,1,Jaguar,1,5,,1,9,1,8,1,8,1,1,,0,1,29,no-image.png
+40,1,Jaguar,1,5,,1,9,1,9,1,9,1,1,,0,1,29,no-image.png
+41,1,Jaguar CD,1,5,,1,8,0,0,0,0,0,0,,0,1,30,no-image.png
+42,1,Jaguar CD,1,5,,1,9,1,8,1,9,0,1,,0,1,30,no-image.png
+43,3,NeoGeo,AES,4,,1,9,1,9,1,9,1,1,,0,1,31,no-image.png
+44,3,NeoGeo,CD,4,,1,9,1,9,1,9,2,1,,0,1,32,no-image.png
+45,1,Intellivision,1,2,FR,1,8,1,8,1,8,2,1,,0,1,33,no-image.png
+46,1,Xbox,1,6,FR,1,9,1,9,1,9,1,1,,0,1,34,no-image.png
+47,1,Xbox 360,1,7,FR,1,8,1,8,1,9,2,1,,0,1,35,no-image.png
+48,1,Turbografx 16,1,3,,1,9,1,9,1,9,1,1,,0,1,36,no-image.png
+49,1,Microvision,1,1,,1,8,1,8,1,8,0,1,,0,1,37,no-image.png

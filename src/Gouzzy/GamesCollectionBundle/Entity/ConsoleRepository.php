@@ -12,11 +12,21 @@ use Doctrine\ORM\EntityRepository;
  */
 class ConsoleRepository extends EntityRepository
 {
+    public function findAllOrderByGenericConsole()
+    {
+        return $this->createQueryBuilder('c')
+                    ->leftJoin('c.genericConsole','g')
+                    ->orderBy('g.name,c.name', 'asc')
+                    ->getQuery() 
+                    ->getResult();
+    }
+    
     public function findAllOrderByBrand()
     {
         return $this->createQueryBuilder('c')
-                    ->leftJoin('c.brand','b')
-                    ->orderBy('b.name,c.name', 'asc')
+                    ->leftJoin('c.genericConsole','g')
+                    ->leftJoin('g.brand','b')
+                    ->orderBy('b.name,g.name', 'asc')
                     ->getQuery() 
                     ->getResult();
     }

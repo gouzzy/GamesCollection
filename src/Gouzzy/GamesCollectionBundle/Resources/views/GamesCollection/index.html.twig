@@ -1,0 +1,12 @@
+{% extends "GouzzyGamesCollectionBundle::layout.html.twig" %}
+{% block title %}{{ parent() }} - Index{% endblock %}
+{% block body %}
+    <ul>
+        <li><a href="{{ path('gouzzy_games_collection_mastergenre_list') }}" >Genres</a></li>
+        <li><a href="{{ path('gouzzy_games_collection_brand_list') }}" >Constructeurs</a></li>
+        <li><a href="{{ path('gouzzy_games_collection_generic_console_list') }}" >Consoles</a></li>
+        <li><a href="{{ path('gouzzy_games_collection_editor_list') }}" >Editeurs</a></li>
+        <li><a href="{{ path('gouzzy_games_collection_developper_list') }}" >Developpeurs</a></li>
+        <li><a href="{{ path('gouzzy_games_collection_console_generic_game_list') }}" >Jeux</a></li>
+    </ul>
+{% endblock %}

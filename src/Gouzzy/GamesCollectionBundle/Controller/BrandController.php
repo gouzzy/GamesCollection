@@ -34,6 +34,11 @@ class BrandController extends Controller
             
             if ($form->isValid()) 
             {
+                $brand->getMasterPicture()->setUploadDir('brands');
+                //$brand->getMasterPicture()->setUploadRootDir($this->get('request')->getBasePath());
+                $brand->getMasterPicture()->setOnline(1);
+                $brand->getMasterPicture()->upload();
+                                
                 $em = $this->getDoctrine()->getManager();
                 $em->persist($brand);
                 $em->flush();
